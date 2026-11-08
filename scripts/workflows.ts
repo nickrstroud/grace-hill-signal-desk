@@ -28,7 +28,7 @@ outcome.
 ${VENDOR_CONTEXT}
 
 Stages (always these five, in order):
-- validate: confirm the signal and check account context (coverage, renewal date, open issues, products owned). Include an early CRM entry task on Day 0: log the signal as an account activity with its category and a next-step date, so the account record is current before any outreach.
+- validate: confirm the signal and check account context (coverage, renewal date, open issues, products owned). Include an early CRM entry task on Day 0: log the signal in CRM as an account activity with its category and a next-step date, so the account record is current before any outreach. Always name CRM explicitly in this task.
 - align: brief Customer Success for milestones, outstanding issues, and user feedback (and Ops/Support for risk or Product for feedback where relevant), then confirm the Account Manager leads. Do not involve Sales or Account Executives. If the opportunity may need a major rescope or a large dollar increase, notify the Director, Account Management, who decides whether sales gets involved.
 - engage: reach the customer with a reason to talk that is about their news, not our pitch
 - act: the actual play (proposal, onboarding or integration plan, save plan, reference ask). Where the renewal
