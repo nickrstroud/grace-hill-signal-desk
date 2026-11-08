@@ -21,6 +21,8 @@ export function buildAskContext(): string {
     const notOwned = PRODUCTS.filter((p) => !c.products?.includes(p.value)).map((p) => p.label);
     lines.push("", `## ${c.name} (/account/${slugify(c.name)})`);
     if (c.type) lines.push(`Type: ${c.type}`);
+    if (c.renewalDate) lines.push(`Renewal date: ${c.renewalDate}`);
+    if (c.arr != null) lines.push(`ARR (placeholder, illustrative): USD ${c.arr.toLocaleString("en-US")}`);
     lines.push(`Owns: ${owned.join(", ") || "none recorded"} | Not yet: ${notOwned.join(", ")}`);
     if (c.sponsors?.length) lines.push(`Sponsors: ${c.sponsors.map((s) => `${s.name} (${s.title})`).join("; ")}`);
     if (c.notes) lines.push(`Background: ${c.notes}`);
