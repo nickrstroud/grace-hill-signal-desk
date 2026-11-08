@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Example Corp",
+    "website": "https://example.com/",
+    "pinned": true,
+    "type": "Example description",
+    "newsQuery": "\"Example Corp\"",
+    "products": [
+      "platform"
+    ],
+    "notes": "Optional relationship background given to the agent.",
+    "arr": 250000,
+    "renewalDate": "2027-01-01"
+  }
+]

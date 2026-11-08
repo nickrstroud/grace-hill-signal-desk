@@ -1,0 +1,161 @@
+[
+  {
+    "name": "Fogelman",
+    "website": "https://www.fogelman.com/",
+    "pinned": true,
+    "type": "Multifamily investment and property management (Memphis, TN). About 35,000 units, 840 employees, founded 1963.",
+    "newsQuery": "\"Fogelman\" (multifamily OR apartment OR property OR Memphis)",
+    "products": [
+      "training",
+      "policies",
+      "mystery-shopping"
+    ],
+    "notes": "Grace Hill customer for 15+ years. Consolidated Mystery Shopping, Policies, and Training into PerformanceHQ, using Analytics Dashboard, Capture Wizard, the Gracie AI assistant, Learning Plans, and Sparks microlearning. Results reported by the customer: electronic policy acknowledgments, one dashboard for completion and shopping scores, faster onboarding, and a Newsweek Top 100 Most Loved Workplaces recognition. Whitespace: Reputation Mgmt and Surveys for resident experience across the portfolio; Credentials/CEC for licensed staff; Market Analysis (Hello Data) for acquisitions and pricing.",
+    "sponsors": [
+      {
+        "name": "Pattie Woods",
+        "title": "VP of Training and Development"
+      }
+    ],
+    "arr": 412000,
+    "renewalDate": "2027-12-15"
+  },
+  {
+    "name": "DTN Management Company",
+    "website": "https://www.dtnmgt.com/",
+    "pinned": true,
+    "type": "Family-owned real estate firm (Lansing, MI), founded 1973. About 8,000 units across luxury, student, and conventional multifamily; 390 employees.",
+    "newsQuery": "\"DTN Management\" (apartment OR multifamily OR property OR Michigan)",
+    "products": [
+      "training",
+      "mystery-shopping"
+    ],
+    "notes": "Grace Hill customer for about five years; every employee gets a Grace Hill login from day one. Chose Grace Hill over Yardi Aspire for its dashboard and the fewest clicks to reach learning. Uses an 85% mystery-shop benchmark for consistent tours and values written shopper feedback with video and audio recordings. Whitespace: Policies (onboarding and standards, the way Fogelman uses it); Reputation Mgmt and Surveys for resident and prospect experience; Credentials/CEC for licensed staff.",
+    "sponsors": [
+      {
+        "name": "Heather Heitman",
+        "title": "Employee Engagement Manager"
+      }
+    ],
+    "arr": 228000,
+    "renewalDate": "2027-05-15"
+  },
+  {
+    "name": "Dolben",
+    "website": "https://www.dolben.com/",
+    "pinned": true,
+    "type": "Multifamily owner and operator (The Dolben Company), 70+ communities and 16,000 units.",
+    "newsQuery": "\"Dolben\" (apartment OR multifamily OR communities)",
+    "products": [
+      "virtual-tools"
+    ],
+    "notes": "Uses Realync (now part of Grace Hill) for unit-level video leasing tours. Nearly 4,000 videos produced in one year and 400,000+ total video views, reported by the customer. Video is built into unit turns, with leasing contests and Realync reporting for accountability. Onsite teams film tours themselves, with regional in-person training and ongoing reinforcement because of turnover. Whitespace: Training for leasing and onsite teams (in-person training is already a practice here); Reputation Mgmt and Surveys for prospect and resident experience; Mystery Shopping to check tour quality across 70+ communities.",
+    "sponsors": [
+      {
+        "name": "John Schroeder",
+        "title": "Vice President of Marketing"
+      }
+    ],
+    "arr": 341000,
+    "renewalDate": "2027-03-03"
+  },
+  {
+    "name": "Camden Living",
+    "website": "https://www.camdenliving.com/",
+    "pinned": true,
+    "type": "Multifamily operator (Houston, TX). 170+ communities, 59,000+ apartment homes across nine states and D.C.; 1,670 employees; founded 32 years ago.",
+    "newsQuery": "\"Camden Living\" (apartment OR multifamily OR communities OR Houston)",
+    "products": [
+      "training"
+    ],
+    "notes": "Long-time Grace Hill training-content customer. Upgraded to Training in PerformanceHQ in November 2024 for better compliance tracking, custom content, and mobile access. Results reported by the customer: managers have a real-time view of compliance, group and role-based assignment saves admin time, location-specific strategies and group reminders lifted course completion, and learners find compliance courses more easily. Cynthia Hodder (Learning Technologies Specialist) is the day-to-day compliance lead on the team. Whitespace: Policies (onboarding and standards across 170+ communities); Mystery Shopping and Surveys for resident and leasing experience; Reputation Mgmt; Credentials/CEC for licensed staff; Virtual Tools and Market Analysis (Hello Data) for leasing and acquisitions.",
+    "sponsors": [
+      {
+        "name": "Anneli Joplin",
+        "title": "Director of Learning Innovation"
+      }
+    ],
+    "arr": 494000,
+    "renewalDate": "2027-01-15"
+  },
+  {
+    "name": "Gene B. Glick Company",
+    "website": "https://genebglick.com/",
+    "pinned": true,
+    "type": "Privately held multifamily ownership, development, and management firm (Indianapolis, IN). 21,000+ units across 13 states; founded 1947.",
+    "newsQuery": "\"Gene B. Glick\" OR \"Glick Company\" (apartment OR multifamily OR Indianapolis)",
+    "products": [
+      "virtual-tools"
+    ],
+    "notes": "Uses Realync Virtual Leasing and Video Tools (Grace Hill) at 25 conventional apartment properties. Added the Realync Approvals feature and the Realync video recording checklist to keep video on brand, with approvers notified when onsite teams create content. Results reported by the customer: prospects who viewed a Realync tour converted 38% of the time, for about $3M in leases in 2023, versus 7% for prospects who didn't engage with a tour. Next steps named by the customer: keep property websites current, add video to floor plans, run yearly video audits, automate resident-focused videos, and build move-in/move-out video playlists. Whitespace: Training for leasing and onsite teams; Mystery Shopping and Surveys to measure tour and resident experience; Reputation Mgmt; Policies for the video and brand standards; Market Analysis (Hello Data).",
+    "sponsors": [
+      {
+        "name": "Rosie North",
+        "title": "Digital Media Manager"
+      }
+    ],
+    "arr": 262000,
+    "renewalDate": "2027-07-01"
+  },
+  {
+    "name": "Franklin Group (Property Management)",
+    "website": "https://fgcompanies.com/",
+    "pinned": true,
+    "type": "Multifamily development and property management across senior, luxury, and affordable housing (Virginia Beach, VA). Portfolio runs from Rhode Island to Florida. Founded 2013. Scope here is the property management business only; Franklin Group has other business groups.",
+    "newsQuery": "\"Franklin Group\" (apartment OR multifamily OR \"property management\" OR Virginia Beach)",
+    "products": [
+      "virtual-tools"
+    ],
+    "notes": "Uses Realync Virtual Leasing and Video Tools across the portfolio, with video in onsite leasing and marketing. Springhouse Apartments: live Realync video tours for out-of-market and military leads; a lease signed within 24 hours of launch, with 22 minutes from tour to close (customer-reported). Greenwich Village: video ads tested against static image ads with agency GREENstick (a Realync agency partner). In the first 14 days, video ads beat static ads on Meta (click-through +160%, conversion +145%, cost per click -31%) and on Google (conversions +500%, cost per conversion -63%). Customer-reported results. Whitespace: Training for leasing and onsite teams; Policies; Mystery Shopping and Surveys for tour and resident experience; Reputation Mgmt; Credentials/CEC; Market Analysis (Hello Data).",
+    "sponsors": [
+      {
+        "name": "Angie Lombardi",
+        "title": "Vice President of Marketing"
+      }
+    ],
+    "arr": 359000,
+    "renewalDate": "2027-10-10"
+  },
+  {
+    "name": "Akara Living",
+    "website": "https://akaraliving.com/",
+    "pinned": true,
+    "type": "Multifamily real estate development and property management (Miami, FL). $1.5B assets under management; 12 years in business.",
+    "newsQuery": "\"Akara Living\" OR \"Akara Partners\" (apartment OR multifamily OR Miami)",
+    "products": [
+      "virtual-tools"
+    ],
+    "notes": "Uses Realync Virtual Leasing and Video Tools for two goals: cutting maintenance work orders with video tutorials for common requests, and reducing in-person tours with unit-level and amenity video on listing sites (ILSs) and SiteMaps. Launched Kenect Nashville and Sora (formerly Kenect Phoenix). Customer ROI math (customer-reported): 3,048 work orders x 15 minutes = 762 hours (about 32 workdays) of maintenance time over 12 months across 1,000 beds, with appliance, GFI, HVAC, and general maintenance requests making up 35% of service requests. Estimated savings: 1,100 fewer work orders, about 272 hours (about 11 workdays). The 15-minute average would give about 275 hours, so the 272 figure is slightly off from its own inputs. Tours: prospects watch a video for 30 seconds to 1 minute before deciding, versus about 45 minutes for an in-person tour. Results: 1,462 views across 56 videos, about 1,000 from in-unit tours on ILSs and SiteMaps. Sora's living-hacks videos reached 624,000+ likes. Whitespace: Training for maintenance and leasing teams (the work-order problem is a training problem too); Policies for resident self-service rules; Surveys and Reputation Mgmt for resident satisfaction; Mystery Shopping for tour quality; Credentials/CEC; Market Analysis (Hello Data).",
+    "sponsors": [
+      {
+        "name": "Carroll VanHook-Weaver",
+        "title": "Director of Leasing and Marketing"
+      }
+    ],
+    "arr": 173000,
+    "renewalDate": "2027-02-20"
+  },
+  {
+    "name": "HILLS Properties",
+    "website": "https://www.hillsproperties.com/",
+    "pinned": true,
+    "type": "Luxury A and A+ multifamily developer, owner, and manager across Ohio, Kentucky, and Indiana (Cincinnati, OH). 6,800 units; 210 employees; founded 67 years ago.",
+    "newsQuery": "\"HILLS Properties\" (apartment OR multifamily OR luxury OR Cincinnati)",
+    "products": [
+      "reputation"
+    ],
+    "notes": "Uses Grace Hill Reputation Management, chosen after vetting multiple vendors and implemented about four years ago. Pulls data from resident surveys and online reviews, and uses risk monitoring, the Local Brand Visibility (LBV) score, Google Maps ranking data, and Pulse AI sentiment analysis. Accountability routines: response-rate monitoring, reminders for property managers with pending reviews, a property-manager session at the Leadership Summit, and a monthly Morning Marketing Power Hour. Results (customer-reported). 2022 to 2023: review volume up 104% (364 to 741), response rate up from 44% to 88%, average rating up from 4.2 to 4.4, and 1-star reviews down 37% (113 to 71). 2024: overall rating 4.5, 718 reviews, a 90% response rate, and over 595 five-star reviews. Also named: Sara Hendricks, Vice President of Property Management, and Stacy Lonsbury, Portfolio Support Specialist, who handle policy compliance, training, and operational integrity. Whitespace: Policies and Training for property management and onsite staff, Surveys (resident feedback is already a data source; confirm current use), Mystery Shopping, Virtual Tools, Market Analysis (Hello Data), and Credentials/CEC.",
+    "sponsors": [
+      {
+        "name": "Sara Perry",
+        "title": "Director of Brand, Marketing, and Customer Experience"
+      },
+      {
+        "name": "Sara Hendricks",
+        "title": "Vice President of Property Management"
+      }
+    ],
+    "arr": 478000,
+    "renewalDate": "2027-08-20"
+  }
+]

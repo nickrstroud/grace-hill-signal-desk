@@ -1,0 +1,21 @@
+[
+  {
+    "company": "Camden Living",
+    "runAt": "2026-11-08T20:52:15.364Z",
+    "source": "daily",
+    "headline": "Camden Living acquires two multifamily properties in Arizona; training expansion and onboarding opportunity for new teams",
+    "signals": [
+      {
+        "category": "Portfolio Acquisition - Gilbert Property",
+        "updateType": "expansion",
+        "play": "training",
+        "score": 2,
+        "summary": "Camden Living acquired a 320-unit multifamily community in Gilbert, Arizona. This represents material portfolio growth for the operator and adds a new property requiring team training and compliance setup.",
+        "suggestedAction": "Contact Anneli Joplin and Cynthia Hodder to confirm onboarding timeline for the Gilbert property team to PerformanceHQ. Offer to: (1) conduct a training-needs assessment for the new management and leasing staff; (2) migrate or create location-specific Learning Plans for the 320 units; (3) brief the new team on the compliance-tracking benefits they've already realized post-November 2024 upgrade.",
+        "sourceName": "Yield PRO",
+        "sourceLink": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wN2dTWDR1NkNfZkZpdU02VzEtSUl4dldtc0s4SkJNY2FoajdPZGJ1M05YcUtFMnJvRkpIZWVrUVhaY2paTkVWMXRyYmhzMDRX?oc=5",
+        "publishedAt": "2026-07-18T07:00:00.000Z"
+      }
+    ]
+  }
+]
