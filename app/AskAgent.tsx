@@ -4,10 +4,10 @@ import { useState, type ReactNode } from "react";
 import Link from "next/link";
 
 const SUGGESTIONS = [
-  "Which accounts have had M&A or divestitures, and what's the renewal risk?",
-  "What changed at Kroger in the last 30 days?",
-  "Which customers are most exposed to the new tariffs?",
-  "Draft three talking points for a Costco business review.",
+  "Which accounts have had M&A or portfolio changes, and what's the renewal risk?",
+  "What changed at Fogelman in the last 30 days?",
+  "Which customers have the most whitespace in Policies and Mystery Shopping?",
+  "Draft three talking points for a Camden Living business review.",
 ];
 
 // Renders **bold** and turns account names into links to their pages.
