@@ -1,1 +1,207 @@
-{}
+{
+  "a_pgb90m": {
+    "signalId": "a_pgb90m",
+    "account": "Fogelman",
+    "signalTitle": "Texas Portfolio Expansion",
+    "play": "onboard_expand",
+    "goal": "Onboard Fogelman's ninth Texas property onto PerformanceHQ and expand Reputation Mgmt and Surveys to the new Dallas asset.",
+    "owner": "Account Manager + Customer Success Manager",
+    "contactRole": "VP of Training and Development",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Log signal: Texas portfolio expansion (Ovilla at Legacy Square, Dallas suburbs) with onboarding priority and expansion opportunity flagged; set next-step review to Day 3.",
+          "Check renewal date, active products (Training, Policies, Mystery Shopping), and portfolio coverage; confirm new Dallas property is in-scope and outline whitespace (Reputation Mgmt, Surveys, Credentials/CEC, Market Analysis)."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-2",
+        "tasks": [
+          "Brief Customer Success on new Dallas property: confirm onboarding timeline, Capture Wizard playbook availability, and Mystery Shopping launch readiness within 60 days of opening.",
+          "Confirm Account Manager leads; check if expansion scope (adding Reputation Mgmt and Surveys to new asset) warrants Director review."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Email [VP of Training and Development]: congratulate on Ovilla acquisition, confirm PerformanceHQ onboarding for new team, offer turnkey Capture Wizard build using existing playbooks, and propose a brief call to lock in launch timeline and explore resident and employee feedback tools for the new property."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-14",
+        "tasks": [
+          "Call with [VP of Training and Development]: confirm PerformanceHQ rollout (Training, Policies, Mystery Shopping) and timeline; present Reputation Mgmt and Surveys as complementary for the new asset (launch alongside Mystery Shopping results to close feedback loop), with multi-year bundling option vs. annual add-ons.",
+          "Provide timeline and rollout checklist: Capture Wizard playbook delivery, user provisioning, Mystery Shopping soft launch target (pre-opening or week 1), and resident feedback survey readiness."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log PerformanceHQ onboarding (Training, Policies, Mystery Shopping) for Ovilla property and any new product commitments (Reputation Mgmt, Surveys) into forecast; confirm close date for add-on proposals and Mystery Shopping activation date.",
+          "Track completion: PerformanceHQ live on new property, Mystery Shopping active within 60 days, and Reputation Mgmt or Surveys pilot launch (success measure: new Dallas asset fully integrated into PerformanceHQ within 120 days)."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Congratulations on Ovilla at Legacy Square — Let's Get Your Dallas Team on PerformanceHQ",
+      "body": "Hi [VP of Training and Development],\n\nCongratulations on Fogelman's ninth Texas acquisition! We're excited to support your Dallas expansion. \n\nLet's get Ovilla's team set up on PerformanceHQ right away. We'll build a turnkey Capture Wizard training library using your proven playbooks—no rebuild needed. We can also have Mystery Shopping live within 60 days of opening to keep leasing and service quality aligned from day one.\n\nA quick call this week to confirm your onboarding timeline and explore how resident and employee feedback tools could strengthen the new asset's launch. Does Thursday work?\n\nLooking forward to supporting your growth.\n\nBest,\n[Account Manager]"
+    },
+    "slack": "Fogelman acquired its ninth Texas property (Ovilla at Legacy Square, Dallas suburbs)—continued geographic expansion signal. Play: onboard new Dallas asset to PerformanceHQ (Training, Policies, Mystery Shopping) and expand Reputation Mgmt + Surveys. Account Manager leads; CS confirms onboarding readiness and Capture Wizard playbook availability. Call target: confirm launch timeline and add-on proposal by end of Day 14.",
+    "crmTask": {
+      "title": "Fogelman — Texas Portfolio Expansion: Ovilla at Legacy Square Onboarding + Expansion",
+      "due": "In 3 days",
+      "notes": "Fogelman acquired ninth Texas property (Ovilla at Legacy Square, Dallas suburbs) as of 2026-08-19. Immediate action: schedule onboarding call with [VP of Training and Development] to confirm PerformanceHQ rollout timeline (Training, Policies, Mystery Shopping), offer Capture Wizard turnkey build using existing playbooks, and scope Reputation Mgmt + Surveys for new asset. Mystery Shopping activation target: within 60 days of opening. Whitespace expansion opportunity: Reputation Mgmt, Surveys, Credentials/CEC, and Market Analysis. Customer is highly engaged (15+ year tenure, Newsweek recognition, consolidated three products into PerformanceHQ). Consider multi-year bundle for new asset + expanded coverage."
+    },
+    "doneWhen": "Ovilla property onboarded to PerformanceHQ (Training, Policies, Mystery Shopping) and Reputation Mgmt or Surveys pilot commitment signed by customer, with launch date confirmed within 120 days.",
+    "generatedAt": "2026-11-08T22:12:35.760Z"
+  },
+  "a_1gfsep2": {
+    "signalId": "a_1gfsep2",
+    "account": "Camden Living",
+    "signalTitle": "Portfolio Acquisition - Gilbert Property",
+    "play": "onboard_expand",
+    "goal": "Onboard Gilbert property team to PerformanceHQ and establish Policies as the compliance hub for the expanded portfolio.",
+    "owner": "Account Manager + Customer Success Manager",
+    "contactRole": "Learning Technologies Specialist; Director of Learning Innovation",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Log portfolio acquisition signal in CRM as account activity; note 320-unit Gilbert property onboarding need and next-step date (Day 3).",
+          "Confirm PerformanceHQ current adoption, compliance-reporting gains post-Nov 2024 upgrade, and learner count at existing properties.",
+          "Check renewal date, contract term, and coverage scope for Training product across the full portfolio."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1–3",
+        "tasks": [
+          "Brief with Customer Success: confirm Gilbert property go-live timeline, outstanding compliance issues at existing properties, and adoption velocity across 170+ communities.",
+          "Confirm Account Manager leads expansion play; loop in Customer Success on training-needs assessment and Learning Plan migration to ensure handoff clarity."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3–5",
+        "tasks": [
+          "Email [Learning Technologies Specialist] and [Director of Learning Innovation]: congratulate on Gilbert acquisition, reference Nov 2024 PerformanceHQ compliance wins (real-time manager view, faster course completion), and offer three actions: training-needs assessment, location-specific Learning Plans for Gilbert team, and onboarding briefing."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7–14",
+        "tasks": [
+          "Conduct training-needs assessment with [Learning Technologies Specialist] for Gilbert property management and leasing staff (roles, compliance gaps, onboarding timeline).",
+          "Design location-specific Learning Plans and Policies for Gilbert team; align go-live date with their timeline.",
+          "Present expansion proposal: formalize Gilbert team onboarding in PerformanceHQ + introduce Policies as centralized standards hub for Camden's 170+ communities (one proposal, two offerings: Policies only for Gilbert pilot, or Policies rollout across full portfolio at renewal)."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log expansion deal in CRM: Gilbert property onboarding start date, Policies proposal acceptance/timeline, and revised contract scope.",
+          "Confirm go-live date for Gilbert team; track adoption (completion rates, manager logins) for first 30 days.",
+          "At renewal, present multi-year option (Training + Policies, full portfolio coverage) and annual option; lead with multi-year term tied to Policies rollout and compliance standardization across 170+ communities."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Congratulations on Gilbert – let's get the team trained and compliant from day one",
+      "body": "Hi [Learning Technologies Specialist] and [Director of Learning Innovation],\n\nCongratulations on the Gilbert acquisition. We're excited to support the new team's onboarding.\n\nSince your PerformanceHQ upgrade in November, you've realized real gains—managers now have real-time compliance visibility, and group-based assignments have lifted completion rates across your communities. We'd like to bring the Gilbert team into that same experience.\n\nWe'd like to help with: (1) a training-needs assessment for the new management and leasing staff, (2) location-specific Learning Plans tailored to Gilbert's team and compliance calendar, and (3) a briefing on the compliance-tracking benefits you're already seeing.\n\nLet's connect early next week to confirm your go-live timeline and the best way to onboard them smoothly.\n\nBest,\n[Account Manager]"
+    },
+    "slack": "Camden Living acquired a 320-unit property in Gilbert, AZ—material portfolio growth. They upgraded to PerformanceHQ in Nov 2024 and are reporting strong compliance-tracking wins. Play: onboard Gilbert team to PerformanceHQ with location-specific Learning Plans, and introduce Policies as a standards hub for the full portfolio. Account Manager leads; Customer Success confirms go-live timeline and adoption handoff. Ask: confirm Gilbert onboarding timeline by end of week.",
+    "crmTask": {
+      "title": "Onboard Gilbert property team to PerformanceHQ; explore Policies expansion",
+      "due": "In 3 days",
+      "notes": "Portfolio acquisition (Gilbert, AZ, 320 units) signals material growth and new compliance-setup need. Post-Nov 2024 PerformanceHQ upgrade, Camden is reporting strong gains in manager visibility and learner completion. Play: onboard new team to PerformanceHQ, deliver location-specific Learning Plans, and present Policies as compliance-standardization hub for full 170+ property portfolio. Two-pronged approach: Policies pilot at Gilbert + rollout option at renewal."
+    },
+    "doneWhen": "Gilbert property team onboarded to PerformanceHQ with location-specific Learning Plans live; Policies pilot or portfolio expansion agreed and scoped in contract amendment or renewal term.",
+    "generatedAt": "2026-11-08T22:12:36.122Z"
+  },
+  "a_1eruma7": {
+    "signalId": "a_1eruma7",
+    "account": "Akara Living",
+    "signalTitle": "New student housing development (San Diego market)",
+    "play": "onboard_expand",
+    "goal": "Expand Grace Hill's footprint into Akara's new San Diego student housing asset by launching Training and Policies for leasing and maintenance teams, and establish Mystery Shopping to protect tour quality and conversion.",
+    "owner": "Account Manager + Customer Success Manager",
+    "contactRole": "Director of Leasing and Marketing",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Log signal as account activity: 'Akara expansion—new 305-bed student housing property, San Diego; onboarding opportunity for Training, Policies, Mystery Shopping.' Category: expansion. Next-step date: Day 3.",
+          "Confirm account context: Virtual Tools (Realync) active across 1,000+ beds; known ROI on work-order reduction and tour conversion. Renewal date and contract term on file. Check for any service or support issues at current properties that may affect new property launch.",
+          "Identify Akara's student housing team structure (leasing, maintenance, ops leads) and onboarding timeline for San Diego property launch."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-3",
+        "tasks": [
+          "Brief Customer Success: gather insights on Realync usage at Kenect Nashville and Sora (Phoenix), user adoption rates, maintenance team's self-service comfort level, and any outstanding support needs. Ask for early wins and pain points that Training or Policies could address.",
+          "Confirm Account Manager leads the expansion play (no Sales involvement needed for this scope). If student housing strategy signals multi-year, portfolio-wide Training or Policies rollout, notify Director, Account Management for green light."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-5",
+        "tasks": [
+          "Reach [Director of Leasing and Marketing] with message focused on the new San Diego property launch: congratulate on the expansion, acknowledge the full-team onboarding need, and offer a brief conversation about how Training (Learning Plans for student-facing leasing) and Policies (resident self-service FAQs for maintenance) can accelerate ramp and reduce support overhead during construction and pre-opening."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 5-14",
+        "tasks": [
+          "Propose a phased onboarding plan: (1) Training Learning Plans for leasing team (tour skill, student housing objection handling) live before opening; (2) Policies hub for maintenance (appliance, HVAC, GFI FAQs) go-live with first resident move-in; (3) Mystery Shopping for leasing team's tour quality during pre-opening tours and first 90 days to validate conversion rates in student housing segment.",
+          "Present package as a multi-year contract option (e.g., 2-3 years covering this property plus future San Diego or student housing assets, with expanded seat pricing) alongside an annual option for this single property. Lead with the multi-year option and highlight the portfolio expansion value and training velocity gains."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log proposal in CRM: expansion opportunity, multi-year term sought, close date aligned with property opening timeline. Forecast category: expansion. Success measure: Training rollout complete before opening; Policies live within 30 days of first resident move-in; Mystery Shopping baseline scorecard delivered.",
+          "Close the loop with [Director of Leasing and Marketing] and Customer Success Manager on signed contract, assigned seats, and onboarding start date. Establish monthly check-ins through opening and first 90 days to track tour conversion, work-order self-service adoption, and expansion roadmap for other student housing or San Diego properties."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Congratulations on Akara's San Diego student housing launch—let's get your team ready",
+      "body": "Hi [Director of Leasing and Marketing],\n\nCongratulations on securing and closing the San Diego State student housing development. A 305-bed Class A asset is a great win, and we know full-team onboarding—especially during construction—is critical.\n\nWe'd like to help you accelerate ramp for leasing and maintenance. Your Realync success on tour conversion and work-order reduction at Kenect and Sora is a proven playbook. For this property, we're thinking Training (Learning Plans for student-facing tour skills) and Policies (self-service FAQs for maintenance common requests) to cut support overhead early, plus Mystery Shopping to validate leasing tour quality in student housing.\n\nWould you have 20 minutes next week to explore how this can work for San Diego?\n\nThanks,\n[Account Manager]"
+    },
+    "slack": "Akara Living secured a 305-bed Class A student housing development near San Diego State—new asset class and market for them. They're proven on Realync ROI (tour conversion + work-order reduction). We're proposing Training (leasing Learning Plans), Policies (maintenance FAQs), and Mystery Shopping to accelerate onboarding and protect tour quality. Account Manager leads; Customer Success to brief on current usage and Realync wins at Nashville/Phoenix. Seeking multi-year term tied to property opening and future student housing expansion.",
+    "crmTask": {
+      "title": "Akara Living: San Diego student housing onboarding—Training + Policies + Mystery Shopping expansion",
+      "due": "In 5 days",
+      "notes": "Signal: New 305-bed student housing development near San Diego State, closed financing, under construction. Opportunity: Expand from Virtual Tools (Realync) into Training (leasing Learning Plans for tour skill), Policies (maintenance self-service FAQs), and Mystery Shopping (tour quality validation). Contact: [Director of Leasing and Marketing]. Play: onboard_expand. Multi-year contract sought, tied to opening timeline and student housing portfolio growth. Customer Success to brief on Realync adoption and pain points at Kenect Nashville/Sora Phoenix. Account Manager leads; Director, Account Management to be notified if portfolio-wide multi-year rollout signals emerge."
+    },
+    "doneWhen": "Multi-year or annual contract signed, Training and Policies seats assigned, and onboarding kickoff meeting scheduled with San Diego property team before opening.",
+    "generatedAt": "2026-11-08T22:12:40.040Z"
+  }
+}
