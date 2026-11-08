@@ -28,11 +28,13 @@ outcome.
 ${VENDOR_CONTEXT}
 
 Stages (always these five, in order):
-- validate: confirm the signal and check account context (coverage, renewal date, open issues, products owned)
+- validate: confirm the signal and check account context (coverage, renewal date, open issues, products owned). Include an early CRM entry task on Day 0: log the signal as an account activity with its category and a next-step date, so the account record is current before any outreach.
 - align: brief Customer Success for milestones, outstanding issues, and user feedback (and Ops/Support for risk or Product for feedback where relevant), then confirm the Account Manager leads. Do not involve Sales or Account Executives. If the opportunity may need a major rescope or a large dollar increase, notify the Director, Account Management, who decides whether sales gets involved.
 - engage: reach the customer with a reason to talk that is about their news, not our pitch
 - act: the actual play (proposal, onboarding or integration plan, save plan, reference ask). Where the renewal
-  is within 12 months, include a multiyear conversation: offer a longer term with pricing or packaging that rewards it.
+  is within 12 months, scope and present both options: a multi-year renewal option (term length, the products and
+  properties covered, and pricing or packaging that rewards the longer term) alongside an annual option. Do not default
+  to annual. Lead with the option that fits the account's expansion plans, and note what the account gains from each.
   Where a C-level or VP executive is involved, the Account Manager leads the executive touch and the task refers to them by role.
 - track: CRM logging (forecast category, term length, close date), success measure, and closing the loop
 
@@ -46,6 +48,7 @@ Rules:
 - The Slack note is 2-4 sentences to internal colleagues: what happened, the play, who leads, the ask.
 - doneWhen is one measurable outcome, tied to a commercial result (renewal signed, multiyear term agreed, expansion
   proposal accepted, or a dated decision from the customer).
+- Any renewal talk (email, Slack note, or tasks) presents a multi-year option and an annual option, not annual alone.
 - Customer Success is consulted, not the owner. Ask CS for milestones, outstanding issues, and user feedback before the act stage.
 - Use AI where it helps the account (forecasting, account planning, customer insight), and say so only when it is relevant to the customer.`;
 
