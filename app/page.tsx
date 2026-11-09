@@ -103,6 +103,15 @@ export default function Home() {
               <OpportunityQueue accounts={surfaced} />
             </div>
           )}
+          {quiet.length > 0 && (
+            <a
+              href="#quiet-accounts"
+              className="inline-flex items-center gap-2 rounded-xl border border-slate-200 bg-white px-4 py-3 text-sm font-medium text-slate-700 shadow-sm hover:border-brand-500 hover:text-brand-700"
+            >
+              See quiet accounts ({quiet.length}) ↓
+              <span className="text-xs font-normal text-slate-400">nothing actionable this week</span>
+            </a>
+          )}
         </section>
 
         <section className="min-w-0 space-y-6">
@@ -123,7 +132,7 @@ export default function Home() {
       </div>
 
       {quiet.length > 0 && (
-        <section>
+        <section id="quiet-accounts" className="scroll-mt-28">
           <h2 className="text-sm font-semibold text-slate-900 mb-3">
             Quiet accounts <span className="text-slate-400 font-normal">· {quiet.length}</span>
           </h2>

@@ -29,6 +29,12 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
           <WorkflowProvider workflows={getWorkflows()} sponsors={sponsors}>
           <header className="border-b border-slate-200 sticky top-0 bg-white/90 backdrop-blur-sm z-10">
             <div className="h-1 bg-brand-500" />
+            <Link
+              href="/about"
+              className="hidden md:inline-flex absolute right-4 top-4 z-10 rounded-full bg-brand-700 px-4 py-1.5 text-xs font-semibold text-white shadow-sm hover:bg-brand-900"
+            >
+              How it works →
+            </Link>
             <div className="max-w-7xl mx-auto px-4 sm:px-6 py-3 flex flex-wrap items-center justify-between gap-3">
               <div className="flex flex-wrap items-center gap-x-4 gap-y-1">
                 <Link href="/" className="flex items-center gap-2.5 font-semibold tracking-tight text-slate-900">
@@ -38,7 +44,6 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
                 <nav className="flex items-center gap-3 text-xs text-slate-500">
                   <Link href="/" className="hover:text-brand-700">Accounts</Link>
                   <Link href="/industry" className="hover:text-brand-700">Industry Signals</Link>
-                  <Link href="/about" className="hover:text-brand-700">How it works</Link>
                 </nav>
                 <p className="text-[10px] leading-snug text-slate-400 border-l border-slate-200 pl-3">
                   {DISCLAIMER[0]}
@@ -49,6 +54,12 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
               <div className="flex flex-wrap items-center gap-2">
                 <FilterBar />
                 <AccountSwitcher companies={companies} />
+                <Link
+                  href="/about"
+                  className="md:hidden rounded-full bg-brand-700 px-4 py-1.5 text-xs font-semibold text-white shadow-sm hover:bg-brand-900"
+                >
+                  How it works →
+                </Link>
               </div>
             </div>
           </header>

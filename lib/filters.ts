@@ -14,13 +14,13 @@ export const SENTIMENT_OPTIONS = [
 // two can't drift apart. Shared by account signals and industry signals.
 export const UPDATE_TYPE_OPTIONS = [
   { value: "ma", label: "M&A" },
-  { value: "earnings", label: "Earnings & Financials" },
+  { value: "earnings", label: "Earnings & Financing" },
   { value: "leadership", label: "Leadership Change" },
   { value: "restructuring", label: "Restructuring" },
   { value: "expansion", label: "Business Expansion" },
   { value: "competitive", label: "Competitive Pressure" },
   { value: "supply_chain", label: "Supply Chain & Operations" },
-  { value: "trade", label: "Tariffs & Trade" },
+  { value: "trade", label: "Tariffs & Construction Costs" },
   { value: "regulatory", label: "Regulatory & Policy" },
   { value: "technology", label: "Technology & Data" },
   { value: "legal", label: "Legal & Litigation" },
