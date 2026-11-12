@@ -202,5 +202,78 @@
     },
     "doneWhen": "Training and Policies (or either) proposal signed for San Diego property with customer decision and proposed start/go-live alignment.",
     "generatedAt": "2026-11-08T22:23:53.646Z"
+  },
+  "a_rygsl6": {
+    "signalId": "a_rygsl6",
+    "account": "HILLS Properties",
+    "signalTitle": "Top 100 Private Companies Recognition",
+    "play": "advise",
+    "goal": "Leverage HILLS Properties' Top 100 recognition to expand Grace Hill footprint into Training and Policies, operationalizing brand excellence across all 6,800 units and 210 employees.",
+    "owner": "Account Manager + Customer Success Manager",
+    "contactRole": "Vice President of Property Management",
+    "stages": [
+      {
+        "key": "validate",
+        "title": "Validate",
+        "timing": "Day 0",
+        "tasks": [
+          "Log signal in CRM: 'HILLS Properties named Top 100 Private Companies (Greater Cincinnati) — expansion opportunity in Training and Policies to operationalize brand excellence.' Link to Reputation Mgmt success metrics (4.5 rating, 90% response rate, 595+ five-star reviews).",
+          "Confirm current product coverage: Reputation Mgmt owned and delivering; validate Surveys current-use status and confirm whitespace (Training, Policies, Mystery Shopping, Virtual Tools, Market Analysis, Credentials/CEC are unowned).",
+          "Check renewal date and contract terms for Reputation Mgmt; identify if multiyear term or upcoming renewal window to bundle expansion discussion."
+        ]
+      },
+      {
+        "key": "align",
+        "title": "Align internally",
+        "timing": "Day 1-3",
+        "tasks": [
+          "Brief Customer Success: pull Reputation Mgmt health summary (adoption rate, Monthly Power Hour attendance, risk trends, property-manager feedback), user satisfaction, and any outstanding issues or upsell readiness signals.",
+          "Partner with CS to confirm Training and Policies fit: map current policy compliance and training workflows at HILLS (onboarding, role-based training for leasing/service/maintenance, compliance refreshes) to understand readiness and resource constraints.",
+          "Notify Director, Account Management: position this as strategic expansion play (no rescope needed yet; Training + Policies are straightforward adds aligned with operational excellence theme)."
+        ]
+      },
+      {
+        "key": "engage",
+        "title": "Engage the customer",
+        "timing": "Day 3-7",
+        "tasks": [
+          "Draft short congratulations email to [VP of Property Management] on Top 100 recognition; highlight how Reputation Mgmt results (4.5 rating, 90% response rate, 595+ five-star reviews) reflect operational excellence and brand commitment.",
+          "Suggest brief call to discuss how Training and Policies can amplify this momentum: operationalize brand standards across onsite teams (leasing, service, maintenance) at all 6,800 units and accelerate consistency across the 210-employee organization.",
+          "Optional: propose [Director of Brand, Marketing, and Customer Experience] and [VP of Property Management] co-host a case study showcasing Reputation Mgmt impact for regional media or industry forums (positions Grace Hill as strategic partner in their visibility)."
+        ]
+      },
+      {
+        "key": "act",
+        "title": "Act",
+        "timing": "Day 7-21",
+        "tasks": [
+          "Schedule discovery call with [VP of Property Management] (and [Director of Brand, Marketing, and Customer Experience] if available) to map Training priorities (role-based curriculum for leasing, service, maintenance, leadership) and Policies use case (centralized policy hub, AI-assisted employee support via Gracie).",
+          "Prepare two-path proposal: (A) Multi-year renewal of Reputation Mgmt + Training + Policies bundle (incentivized pricing, unified admin platform, integrated playbooks), (B) Annual continuation of Reputation Mgmt + phased Training/Policies pilot. Lead with path A (aligns with multi-year brand building and operational scale).",
+          "If Training/Policies discovery is strong, scope Mystery Shopping pilot (protect reputation gains via proactive leasing/service quality monitoring) for follow-on discussion or bundled offer."
+        ]
+      },
+      {
+        "key": "track",
+        "title": "Track & close the loop",
+        "timing": "Ongoing",
+        "tasks": [
+          "Log proposal, term option selected, and forecasted close date in CRM; update Reputation Mgmt renewal forecast to reflect multiyear option and expansion bundle value.",
+          "Success measure: Training + Policies agreement signed or pilot start date confirmed (expansion revenue captured) AND Reputation Mgmt renewed on multiyear term (5-7 year preferred to match operational roadmap).",
+          "Close loop: confirm implementation dates with Customer Success; coordinate onboarding handoff for Training and Policies; share case study or testimonial plan with customer for regional visibility."
+        ]
+      }
+    ],
+    "email": {
+      "subject": "Congratulations on Top 100 Recognition — Scaling Operational Excellence",
+      "body": "Hi [VP of Property Management],\n\nCongratulations to HILLS Properties on being named one of the top 100 privately owned companies in Greater Cincinnati. That recognition reflects the operational excellence and brand commitment that shows in your Reputation Mgmt results: a 4.5 rating, 90% response rate, and 595+ five-star reviews.\n\nWe'd love to help you operationalize those brand standards across your entire organization—all 6,800 units and 210 employees. Training and Policies could amplify your momentum: role-based learning for onsite teams, a centralized policy hub with AI-powered employee support, and consistency at scale.\n\nWould you have 20 minutes next week to talk through how these tools fit your growth plans?\n\nBest,\n[Account Manager]"
+    },
+    "slack": "🎉 HILLS Properties named Top 100 Private Companies (Greater Cincinnati). Strong signal: Reputation Mgmt driving tangible brand results (4.5 rating, 90% response rate, 595+ five-star reviews). Play: expand into Training + Policies to operationalize brand excellence across 6,800 units. Account Manager leads discovery; CS to map training/policy workflow fit. Goal: multiyear Reputation Mgmt renewal + Training + Policies expansion agreement.",
+    "crmTask": {
+      "title": "HILLS Properties — Top 100 Recognition (Expansion: Training + Policies)",
+      "due": "In 14 days",
+      "notes": "Signal: Top 100 Private Companies recognition (Greater Cincinnati, 2026-11-12). Reputation Mgmt health: strong adoption, 4.5 rating, 90% response rate, 595+ five-star reviews, monthly accountability routines in place. Whitespace: Training (role-based for leasing/service/maintenance/leadership), Policies (centralized hub + Gracie AI), Mystery Shopping (protect gains), Surveys (confirm current use), Virtual Tools, Market Analysis, Credentials/CEC. Sponsor roles: VP of Property Management (Sara Hendricks) and Director of Brand, Marketing, and Customer Experience. Expansion opportunity: bundle Training + Policies + optional Mystery Shopping pilot; position as operationalization of brand excellence across organization. Recommend multiyear Reputation Mgmt renewal concurrently."
+    },
+    "doneWhen": "Training + Policies agreement signed (or pilot start date confirmed) AND Reputation Mgmt renewed on multiyear term.",
+    "generatedAt": "2026-11-12T20:37:54.947Z"
   }
 }
