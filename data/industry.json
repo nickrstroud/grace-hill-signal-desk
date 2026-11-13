@@ -1,5 +1,102 @@
 [
   {
+    "id": "uRlJUV3R2Vm5wT2R3P29jPTU",
+    "title": "Continental Realty Corporation expands Florida multifamily portfolio with acquisition of 276-unit Casa Mirella in Orlando",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Ca2ZvR1BmZjVMbUN5MXMzc0tvSGlMcXZhNlE4LUtXM2xBV21IUkRod1QxWmFzVmFDc21KWHpMaUhGTlpjbnFRTWtvVnpOdw?oc=5",
+    "sourceName": "I95 Business",
+    "publishedAt": "2026-11-13T15:26:56.000Z",
+    "analyzedAt": "2026-11-13T20:15:12.020Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "Continental Realty Corporation expands its Florida multifamily portfolio with a 276-unit acquisition in Orlando, signaling active growth in the Florida market.",
+    "angle": "Portfolio expansion by a competitor underscores competitive activity and market demand in Florida; relevant as background context for customer conversations about market dynamics and strategic positioning.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "Gd09VczFTV3B5WmxJP29jPTU",
+    "title": "Summer Leases Earn Apartment Owners More, Four Years of Data Show",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT25FeHg2ZUxmOS12NnFrRlUxVWxWVWdEZExOY1lwOV9HWUFYRmhWR0s4YjcybFlfSW5GdXJ5bkNqc0owNjZNNDI0cGU5R2xUYlJvQnI1amZlcUlQbVJxYmFtdHoxMlB3NEotZjFYay12akRzeWw2YjFYQkl0UUZOMHM2QTRRWnU4d3ZMZnpsRndVeTFwOUs1SWpyZlI?oc=5",
+    "sourceName": "Globest",
+    "publishedAt": "2026-11-13T09:52:37.000Z",
+    "analyzedAt": "2026-11-13T20:15:01.520Z",
+    "updateType": "market",
+    "relevance": 1,
+    "summary": "Data shows summer leases generate higher revenue for apartment owners compared to other seasons over a four-year period.",
+    "angle": "Highlights seasonal leasing dynamics and rent-optimization trends that operators use to guide pricing and staffing; relevant context for customer conversations on leasing strategy and market intelligence.",
+    "play": "market-analysis",
+    "products": [
+      "market-analysis"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "RUYzVmpkeVMyTjFUUT9vYz01",
+    "title": "Property Management Software Giants Race to Control AI Agents",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdHp3dmZaUkE4UHd3eWI4UVdoOHNsSlBtZmdjUU1EakxBOUhuSGNNQUg3VEF6QjVQRWpfT0xOakVNd0U2TTQzWVQ1SGpiNmdvQmxSdkx0M1BOQ1lLU2JUV05SbWJnRHMxQnVfaFhEeVR0NXB3Vjh1ckFRM0xZbkFxUXFHLUt3eVNJUTJNZ0FRbEF3VjdyS2N1TQ?oc=5",
+    "sourceName": "Globest",
+    "publishedAt": "2026-11-13T09:50:37.000Z",
+    "analyzedAt": "2026-11-13T20:15:12.020Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "Property management software leaders are racing to integrate AI agents into their platforms, indicating rapid adoption of AI-driven automation in operations and resident/leasing support.",
+    "angle": "AI agent adoption across property-tech is accelerating; Grace Hill customers should evaluate how AI-powered tools (like AI-assisted policies or training interfaces) can improve operational efficiency and staff productivity.",
+    "play": "technology",
+    "products": [
+      "policies",
+      "virtual-tools"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "V4R00wSlBOVlpmUkE_b2M9NQ",
+    "title": "The New Renter Reality: Trends That Have Shaped Multifamily in 2026",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFlTRUU5X1BqbjNOdk1Zd29VYkIxM2Fzb1F0d1pDVTlfOWFILUpZZTJMcnc1OUF6UzZuWnpQNHBZeTQyejJndTc3b1k4bWZzSTdnUU1iSmVMcWpFWlFrc0NpRXh4bEdnZFpkUHBMUW9sWTRZeHNBTGZ6dE5mZEl0UnBEY0FXVHVkbkE4SGtnZ0drRVJMcldkR05XUUxGM0JPNVZfRA?oc=5",
+    "sourceName": "Multifamily Executive",
+    "publishedAt": "2026-11-13T00:08:38.000Z",
+    "analyzedAt": "2026-11-13T20:15:01.520Z",
+    "updateType": "market",
+    "relevance": 1,
+    "summary": "Multifamily Executive article examining rental market trends and shifts shaping the sector in 2026.",
+    "angle": "Provides market context on evolving renter preferences and operational challenges that Grace Hill customers are navigating—useful for positioning training, policies, and service-delivery solutions.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "UbDRjbXQ1UW00M1h3P29jPTU",
+    "title": "Raleigh-Durham multifamily vacancy tightens as deliveries slow",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjFQWjZBRWRfYVB1UzF5VVpPM3JBM0gwR2Jmaks5Y0NqRzdQQWVzV01LWUtqVGptX2p2UkNzRGlibmhaeDl4bGc4RXBod2hydVRGZ203am92U3dzMWxqRkU4ODhUQWhXYURFSEpQUGhMVFRPTE9lZ1hDU1NVMkg4TWNaajVmZ0FSU2s4V255NHBSX3NKVE95eFQyZEJSU24zWXBHUmdPRTl4cmt5Qm43Xw?oc=5",
+    "sourceName": "Northmarq",
+    "publishedAt": "2026-11-12T23:53:41.000Z",
+    "analyzedAt": "2026-11-13T20:15:12.020Z",
+    "updateType": "market",
+    "relevance": 1,
+    "summary": "Raleigh-Durham multifamily market is tightening with lower vacancy as new deliveries slow, creating a favorable leasing environment.",
+    "angle": "Market tightening and lower vacancy favor landlords; leasing teams in tight markets can focus on retention and resident experience over aggressive acquisition, making reputation and surveys tools valuable.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "JlRlJrYkU1QmJGTmY_b2M9NQ",
+    "title": "New bill would require city to develop plan for 50,000+ vacant rent-stabilized units",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeFRBc1FyaU9DZXI3ZEYtNnplM2pqWWp0emNYTW40NGs4NnFWZ2YxQU9wZTA1Um90MExJQlJFdW1EcHNsLW16dmhDSkVnalRYQ1RNRlF1TjZVY3FsQXJCc3IyaUVveEpMLV81OFJBdXdXUFcxR0lqMWlTMXFXRUxHS1JwYXlzeXdzX0tQbWxtUXVqY2tLaFp2eFRkbE5BbFNf?oc=5",
+    "sourceName": "6sqft",
+    "publishedAt": "2026-11-12T21:48:43.000Z",
+    "analyzedAt": "2026-11-13T20:15:12.020Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "New bill would require the city to develop a plan addressing 50,000+ vacant rent-stabilized units, signaling potential new compliance and reporting obligations for operators in rent-stabilized markets.",
+    "angle": "Operators in rent-stabilized jurisdictions may face new compliance tracking and policy requirements around vacancy management; this is a prompt to review policies procedures and potential training needs.",
+    "play": "policies",
+    "products": [
+      "policies"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "SWVIQjNTVWxYU21JND9vYz01",
     "title": "Apartment deliveries fall below decade average as multifamily supply cycle turns",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSE13R2ZVaW5JLWh3V1JjR240QUx3SWNuYmxYdUZ2SjU3N0dWbnVMRHBLcDRSRERfM185anlhUFFCbGY1bjkzMkF4S3dCQkdjWXdwSVg5WVF1cTNYT0YtMHJMUnhtV0VOZnNKR1hGYjh3dkQzeUpfOC05VjdpVDZtQWUwU0FETklkdXN2VVM1S3p2eVBmS1JRVjlXZDdrSk95MDhCbDRIeHB3SUlXSmI4?oc=5",
@@ -211,6 +308,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "BRa05HVm0wNGFWRm4_b2M9NQ",
+    "title": "How Real Estate Organizations Can Avoid the AI Adoption J-Curve",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWHZDM0ZGQVlGUVJfaDBvdjRYNmJac0huV2tmM3lPcDVZbmNoYXJ0QTBGM2s5dU52UXVRNF9oYm1yQmFoWkhJQ09NbklHWWpOOE1iZjA0X0Q2elNvQzB5djdqMEc0ZG9nakFjdnFsWG1vQmtVQV9LaFg0Tkh0ZnRVMUFhLVk0QkNGVm04aVFn?oc=5",
+    "sourceName": "Propmodo",
+    "publishedAt": "2026-11-11T18:40:45.000Z",
+    "analyzedAt": "2026-11-13T20:15:12.020Z",
+    "updateType": "technology",
+    "relevance": 1,
+    "summary": "Industry guidance highlights how real estate organizations can navigate AI adoption challenges and avoid inefficiency traps during implementation.",
+    "angle": "AI adoption is a key strategic topic for operators; guidance on avoiding common pitfalls can frame Grace Hill's role in helping teams prepare through training and clear policies.",
+    "play": "training",
+    "products": [
+      "training"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "MmRmZW5SdmJHZGFRUT9vYz01",
     "title": "What Makes NYC Multifamily Deals Pencil",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40cU5yMng1NVBwN2pxNjl4S3dfeG1GejYxYjUwWDR2MjVBSTltZF9yeXMxVXRJeUloMV9QOTU3c3BsX2xFTDR2dVlYYmVPa3N4M0p6aHdBai1kRXNQaVlSRjVQNVk4OUJaWm9VMWpiMWdWUlZsd2dfenRvbGdaQQ?oc=5",
@@ -242,6 +356,24 @@
     "products": [
       "reputation",
       "surveys"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "MHRLYlVsRFluTnNOQT9vYz01",
+    "title": "Berkeley Heights Rent Control Plan Would Cap Increases at 4% or Inflation, Whichever Is Lower",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYmVpeG1EcXhZeXFybWE5M3djbVhaRkZaRV93WW9YZjlMYXNxVS1OVTBBUHdRaXVmZHp3REJSaVE0NlN2NGh4UDBCNE5VREVOS3QtQ284cjBZUkg0NzdOUncwTlRlcENzaFA3UzhJMjUwZmY0ME1MWmFXT1M0clBkcWpkM3FPbTd6UWtuM1YwWk9vR1NIZzg2R0ZTYUo4WUU0aEktdVBoTV9HVmxSU05WZVNQZVN5aXF6OGRtSE9pbjF5VVJ3SDhCRHNKREwzY0hoNHJJR1JWMV9POHlFZGtnaHdfUGx1VXNLdVZLOXA4WlNrb0tKbUlDYnNsNA?oc=5",
+    "sourceName": "TAPinto",
+    "publishedAt": "2026-11-11T14:35:19.000Z",
+    "analyzedAt": "2026-11-13T20:15:12.020Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Berkeley Heights proposes rent control plan capping increases at 4% or inflation, whichever is lower, affecting rent-setting strategy and lease-renewal processes in that market.",
+    "angle": "Local rent caps change how leasing teams structure renewal and pricing conversations; operators need clear policies and training on compliant rent-setting and resident communication.",
+    "play": "policies",
+    "products": [
+      "policies",
+      "training"
     ],
     "mentionedAccounts": []
   },
@@ -406,6 +538,23 @@
     "relevance": 2,
     "summary": "Pomona extends rent stabilization ordinance and rejects proposed rental registry, signaling continued local rent-control enforcement and tenant protections.",
     "angle": "Operators in Pomona face stricter rent controls and ongoing compliance obligations; this is a talking point for policies training and fair housing guidance.",
+    "play": "policies",
+    "products": [
+      "policies"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "aVFYzZFZXR2hXWW1RP29jPTU",
+    "title": "Pomona extends rent stabilization, rejects rental registry",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX3hCY0FPWXJncXIwMno0X21Fd2VSN3U2dkVJODlUU091aTBOYVVNVWIyX0lOaXF4b1VITU90TVBaVzl4X3dPUXByVkRrM1N6aHlRU3djMFEweGVORVZBU3RZb1dMWnk4Z0ZNeWZkM1NZbzdpV1oyc0Z5NFF2Sk54ZFdvbnVKOEIyYkJJZUZYRk5QMGg2dnlzUHlNOWFfUm_SAaQBQVVfeXFMT1VnTjVCbmFORmJ6ZXdpQjcyN2NzV1hCRTlvZUJwNFlqYmJKVEdidDJBNHJ5bE82YVV2X2VuUkQ3R1NxY0FUaGgxc3VSalZ4eTNhQ1QxcVF2S3FjaEF5Qnl5MFQzWjVwS005aTB4aEpqZHI1aTNyWUQtek8yeGdXQzkweE9MV3dvOGJlY2c4bllQdVJCQ3Jic1psOWZTV3dVWGhWYmQ?oc=5",
+    "sourceName": "The Poly Post",
+    "publishedAt": "2026-11-10T06:08:53.000Z",
+    "analyzedAt": "2026-11-13T20:15:12.020Z",
+    "updateType": "regulatory",
+    "relevance": 1,
+    "summary": "Pomona extends rent stabilization and rejects a rental registry requirement, clarifying market expectations around rent control but avoiding new registry compliance burdens.",
+    "angle": "Rent-control extension signals a stable regulatory environment in Pomona; operators can maintain current compliance posture but should ensure policies reflect long-term rent caps.",
     "play": "policies",
     "products": [
       "policies"
