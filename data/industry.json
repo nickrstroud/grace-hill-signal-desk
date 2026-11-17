@@ -1,5 +1,102 @@
 [
   {
+    "id": "UVRUWnBSMWhsV2xGVT9vYz01",
+    "title": "After Declaring a ‘Rent Emergency,’ San Francisco Is Bringing in New Tenant Protections",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYkdTSXhKRVJLZEk1cHhyYWk0U3Q5TFZNZ3hwR3c5MWM0MFFrUHZ3Y09fcG5xZlJEeHFONHk5REYtaEtlMjRRMmJNV293NlB5UzNhaHlOVHY1UG9ncy1qTkI3SC1jZ3RQM0ZNLUVpUzZvb1NnR3FIekgxMGlvdVhzZnFibERvb2xXNlRQTTZpR1hlWlFU?oc=5",
+    "sourceName": "KQED",
+    "publishedAt": "2026-11-17T19:32:02.000Z",
+    "analyzedAt": "2026-11-17T21:28:50.188Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "San Francisco has declared a 'Rent Emergency' and is implementing new tenant protections, adding to the patchwork of local rent-control and tenant-protection rules operators must navigate.",
+    "angle": "New local rent and tenant rules require operators to update lease terms, disclosures, and fee structures; policies and training become critical for consistent compliance across portfolios.",
+    "play": "policies",
+    "products": [
+      "policies"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "kzVjNWZlRYTldjRzQ_b2M9NQ",
+    "title": "Continental Realty Acquires Orlando Property for $73M - Multi-Housing News",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVEoybEJuZlVCc21jN0lrdjAyQ1hYV3hfX3UtN2dFWWR2cXR3RFVOaHcyUG5tSy0yV0FoVlMxRHBXVDVJNE80S3NST3B6aEdGLXliUEY3RzdXUnJDWWVtVWFhOEFpd0xzaTVaTWhJbUxaQ3RMUGlzVFdWbzFYY2x4X3Nnd3FjYU93V3VfTXNWcG4?oc=5",
+    "sourceName": "Multi-Housing News",
+    "publishedAt": "2026-11-17T13:53:32.000Z",
+    "analyzedAt": "2026-11-17T21:28:45.557Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "Continental Realty Corp. acquired a 276-unit multifamily community in metro Orlando for $73 million, marking a significant expansion in the Florida market.",
+    "angle": "Major acquisition signals portfolio growth and need for operational integration, training alignment, and policy standardization across properties and teams.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "JhY0RkWFlUaDRhWGM_b2M9NQ",
+    "title": "Chicago renters struggle to keep up with gas and water bills as landlords switch to new way of billing",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOXzl2TlFyLU5xYTJ3Q0xNdmxqVl9IblUweV9lN1YwT3ZXMTBuZ2Y3NkFCZHFsTm9Fbk5zQW1EU3BkWTBRa2xLbnVTRkJXcDJzNkk5M0E1SFltcURjX1Bfd2hHWXl5Y1VPZzRYbTI0MldYR3JGeDZPTVRHcTlXczhmV0o5ejhqaWFJbDBhVEJtZV9Ea2xfdTFoajRacDdXYTh4aXc?oc=5",
+    "sourceName": "WBEZ",
+    "publishedAt": "2026-11-17T11:35:00.000Z",
+    "analyzedAt": "2026-11-17T21:28:50.188Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Chicago landlords are switching to new utility billing methods, creating resident friction and payment challenges as renters struggle with gas and water bill changes.",
+    "angle": "Operational changes in how utilities are billed and collected affect resident communication, payment processing, and potential fair-housing compliance; policies and training help staff explain new billing to residents consistently.",
+    "play": "policies",
+    "products": [
+      "policies",
+      "training"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "5Oek1UaDVVbXhyTkE_b2M9NQ",
+    "title": "Multifamily can buy AI. It can’t buy back the last decade of data.",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRTN1Sms3c0pFUWw4YXBoMkVrTWdEM3NlZ2todUZDUkt6ejBLSFJpTGtOcXF0NVA3V1UzUDZfeFloSDdFMnZFbGNvdThKdzNsNElRNm5yR2w1VFJ5TEs5clV3NTktT0Uta3dORUl0Z1VfOS05dzV0ZHFJTW1xRW9ocXl1Y29MV1VESzhqVEp0QU5HZnNzMTh5UmxrNA?oc=5",
+    "sourceName": "Multifamily Dive",
+    "publishedAt": "2026-11-16T22:08:46.000Z",
+    "analyzedAt": "2026-11-17T21:28:56.063Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "Industry analysis shows multifamily operators recognize the competitive advantage of AI tools but face a critical gap: lack of historical data prevents full AI effectiveness.",
+    "angle": "Operators need robust data infrastructure and analytics to compete; this underscores the value of market-analysis and integrated data platforms to inform pricing, acquisitions, and leasing strategy.",
+    "play": "market-analysis",
+    "products": [
+      "market-analysis"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "a1NGSnFRbmxhVTB4dj9vYz01",
+    "title": "Caliber Acquires 45-Unit Tonto Oaks Apartments in Arizona for $9 Million",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNGZfQmIxME9QZk5iU0xjcXloVDh4ME1kZmU0YkFGTWNXMVZDRXpSZ0lDZ2hGT1pKYkx0M2xIREQzWHVsWjdwV2EzLXNUNDRjWEhkalFWdEhrM1B5X0gyc1phR1VUX0JGc3pkeWxqLU5LZ2c1SGRjOGplMXhBYjkyUXR0WHdKenRSejcxaGdPQ21YTFZ1cmJwcHR5VVlpTWkxcktES3VkSFJqQnlaU0xv?oc=5",
+    "sourceName": "citybiz",
+    "publishedAt": "2026-11-16T21:07:49.000Z",
+    "analyzedAt": "2026-11-17T21:28:45.557Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "Caliber acquired a 45-unit apartment community (Tonto Oaks Apartments) in Arizona for $9 million, expanding its multifamily holdings in the region.",
+    "angle": "Acquisition and regional expansion create onboarding and standardization opportunities for training, policies, and operational tools across newly acquired properties.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "abldXcGFaMk00VEUwP29jPTU",
+    "title": "Bevado Raises $10 Million Seed Round For Property Management AI Agents",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeTlLRTJjczVJSjBfX25fTjlRSi1SNUxKa2FidUE3cEptUmdWWXVjSnhqX0lBdldkM1lwSUZqQm5pWGt3WWd4TlhPdVI5b3FVX05LWG5HaHZGV3cwcDNEN1B3dWdvY0dhWnpYVHVsZHJnaUE5WlZFZ3ZqNnBqVnFJY0xGOEh1czJOOUZnWWpaZ2M4TE0?oc=5",
+    "sourceName": "Pulse 2.0",
+    "publishedAt": "2026-11-16T20:11:36.000Z",
+    "analyzedAt": "2026-11-17T21:28:45.557Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "Bevado, a property management AI platform, raised $10M seed funding to build AI agents for resident management and operational automation. The platform aims to remember resident interactions and learn from conversations to improve property operations.",
+    "angle": "Competitive intelligence: AI-driven resident engagement and operational automation is attracting venture capital and reshaping how multifamily operators manage day-to-day leasing and service. Grace Hill customers should understand how AI-assisted policies, training, and resident communication tools complement or compete with emerging platforms.",
+    "play": "technology",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
     "id": "c3hZVGR1V2tRMFNrRT9vYz01",
     "title": "Local Investor Pays Nearly $12 Million for 40-Unit Santa Barbara Apartment Property Amid Rent Control Uncertainty",
     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN1h0bF83TmY5TVptT0JCS0d6d2wxMkdyRWNCemhVeWx2VlA1dWpyWUpvMkg3M0pfZGJvRGluOWpGZWE1dUhvZ2NBaXpyMWFVUEZPV0FtMzZzWlJOWjdLdkRMUWJHYWpyYVV0SUZ2MFZWMnhRV2JsX1ZxdThaZHdPeEdNNzdQWEIyMkZxOXZNbHJRZWF1MU1OX2duMjM4eU1reGZWTW4zdWRPT0R5UmxXTl9VMnp6ejdaUlUwQlFxeG5meklkc0JXd2tQNjZGa3dSaC1wY292ak5QMjhVOWsxYTduWkQ0SkE?oc=5",
@@ -27,6 +124,21 @@
     "relevance": 1,
     "summary": "CMCT reports 55% NOI growth in multifamily segment as occupancy improves and hotel performance rebounds. Positive operator economics signal stronger leasing and renewal momentum across the sector.",
     "angle": "Market momentum is favorable for multifamily operators; a backdrop for discussing how strong occupancy trends may ease leasing pressure and shift focus to resident experience and retention.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "0TWpCa2NVeFFRVGhCP29jPTU",
+    "title": "Advanced Real Estate Acquires 253-Unit California Apartment Community for $56.2 Million",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFJFY2xSZ2RENjNKLWxYbTh6RXlxd1lhbFp3Z3gzVkNiQ1BRNm9OZ1g3OUUzdF9KUnh0SzNqU2s1QW96Z2xjTUgxNzdkOW9rUFd6NDItV0ViZUt4REJtM3o1aWlGSXdibzdvSjl3MWlhRVZkQi1nRVVkczE3SnRaVWZBdGFQVzNBZWVIX0dXczQ0SWZJdEZZN1o3V1NOMVlBR0l5TkVwVVFKMmYxbjFwcW04TTV4MjBkcUxQQThB?oc=5",
+    "sourceName": "Boston Real Estate Times",
+    "publishedAt": "2026-11-16T17:10:37.000Z",
+    "analyzedAt": "2026-11-17T21:28:45.557Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "Advanced Real Estate acquired a 253-unit California apartment community (Casitas Apartments) for $56.2 million through a 1031 exchange fund.",
+    "angle": "Portfolio expansion and acquisition activity signal growth and integration needs; acquired properties often require training, policy, and operational standardization across inherited teams and systems.",
     "play": "none",
     "products": [],
     "mentionedAccounts": []
@@ -81,6 +193,24 @@
     "mentionedAccounts": []
   },
   {
+    "id": "cDJhbVZ6U2twd1kwMD9vYz01",
+    "title": "Steve Winn Backs OnTour to Provide Tour Optimization to Multifamily",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWlEb0tlaDduT3VEUTg5MFh1UWl0X3VFX0tsM040ZFJzeUxlcF9ONjhqam9LaUg3NEM2aTlpWmlqeUg5R0tUaFdFSmUwVTBNTmFZUG5iZmJiemItTUE2Y2k1ME04TGpxZnQyWUpCUmluS3p3UVBZX3l1dkpfRnZMRnplY0dlMVVFZVFsMWczSUZlSC1kOGtqNE9tb3QwVEp4MVRWeFplYU1vNGdUdDZfWkZNOXpWNjNhRWp2amVzSkpwY00?oc=5",
+    "sourceName": "StreetInsider",
+    "publishedAt": "2026-11-16T14:07:02.000Z",
+    "analyzedAt": "2026-11-17T21:28:50.188Z",
+    "updateType": "technology",
+    "relevance": 1,
+    "summary": "OnTour, backed by investor Steve Winn, is launching a tour-optimization platform to help multifamily teams improve leasing efficiency and tour conversion.",
+    "angle": "Market adoption of AI-powered tour and leasing tools is accelerating; Grace Hill's virtual tools and training for leasing teams remain core to competitive positioning as operators integrate new technology.",
+    "play": "virtual-tools",
+    "products": [
+      "virtual-tools",
+      "training"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "wNk1WVnhMVjlWUkZVP29jPTU",
     "title": "AI Performs Best in Property and Asset Management Operations",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2lRbDZOaWlCZlZMZi1hampKNllkeTBrbHE5TENCekF4THd5R0hsT1ppbzBVand0dllsU0FhcjczNWtFeGo3RWRESkxlN09NX1BFcXdidFFWUFJ5ak9BUmRwTS1QUlA3dDBDNzRJeWdEakZDMXRKRklzRmRUWlNXNjZQMDRlVXZKeks5c0NjUHNuX0p6MVVxLV9VRFU?oc=5",
@@ -116,6 +246,24 @@
     "mentionedAccounts": []
   },
   {
+    "id": "RlpVbUprY21GV1VHYz9vYz01",
+    "title": "Fire fees, service cuts and layoffs loom across Pinellas after Amendment 3",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWmlUS3F5cGdKSC1tVTRScFQ2dS1jNjRZUTlpeGwzMTZOaTY4S0dUWUxZMUtYTEtIeTJ2TlI2RlFlOEUxSGI4LWpmNXFvZDJZaDZ3LXk0RDBxdk5pNGllUmdURy1tRzRSdnM2c1p3RUZucGsyOWtsd09iVWplS1Zoek5xM3JybW1RRmctZ0NrMVF4cXN5T25udUwwaVd3WTdSUFlybHB2cThXaW54OElGMTFZUmJkcmFWUGc?oc=5",
+    "sourceName": "Florida Politics",
+    "publishedAt": "2026-11-16T00:04:34.000Z",
+    "analyzedAt": "2026-11-17T21:28:56.063Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Florida's Amendment 3 has triggered warnings of fire-service fee increases, cuts to city services, and potential layoffs in Pinellas County, affecting property operating costs.",
+    "angle": "Local regulatory and cost pressures will drive operator focus on staffing efficiency, compliance, and service delivery; creates conversation opportunity around training and policies solutions for Fogelman and other Florida operators.",
+    "play": "training",
+    "products": [
+      "training",
+      "policies"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "JsTkcxUFZUWlhkV0k_b2M9NQ",
     "title": "New East Orange Ordinance Seeks to Ease Rental Costs, Strengthen Tenant Protections",
     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTDZTR2g5bVR0NGpPTTF1N29HcTRqNmNVM1NCVDkzSVZMS1VwckJPVWk1RkREZzU4bDNzS05xMHhiVGtBRlZFb1lEenhibGFSUERxUzRCRF9YMWRDbG9MOXU5NEJsQXNJNG0zMHVFRVJPUS0tTkRZLTllNzg1OFhDNGFnYmNueGRtbFp2LU1ZaHJvVUJ3b2E2YWc1Z3hXa0x3UndpUXp4cWYxTW54M2IyYmk3TjJaNmhOVC1aUjJkbXlScnNqX0piUEhFck16VnJNUmZyelVEZWpCZzlZMS11Ynd2UmpTNnB3NExQWElyX1dkODBlNG1PVTZXdWI?oc=5",
@@ -147,6 +295,21 @@
     "products": [
       "market-analysis"
     ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "ZTV0ZWU0d4blpUVkw_b2M9NQ",
+    "title": "Continental Realty Corp. Expands Florida Multifamily Portfolio With Acquisition of 276-Unit Casa Mirella in Orlando",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPN2NPVEE2VHFtOTdqQ2lLSTVwVGxDM2MzRDBxYXNvN3l5bEV6NGdMdXZIb0pXZXZGRjE0Y08yT0cwcDRNVlN6M0FJTEduSVRnalk4b2xvU1RwbUtCUXA3UmVFRVpFZ2oxYWg1TGMtTWhxZUd4ZG1keEtOZnBaTGxodXllUlJkN0dYSVhhMVJnSVhvd0xhanRZOW9ISnhPTlkzR3JWZ2l4RFhVeFEweDJJbU5mdzR2akcwRXh0MFpScW5FRFl2bWdVeklWVFFOOHIzSV85UllmV08zRVNDX3p6SWFVSGxnZTVL?oc=5",
+    "sourceName": "citybiz",
+    "publishedAt": "2026-11-14T00:45:00.000Z",
+    "analyzedAt": "2026-11-17T21:28:56.063Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "Continental Realty Corp. acquired a 276-unit multifamily property (Casa Mirella) in Orlando, Florida, expanding its portfolio in the state.",
+    "angle": "Portfolio acquisition signals ongoing consolidation and growth in the Florida market; relevant for account expansion discussions with operators in the region.",
+    "play": "none",
+    "products": [],
     "mentionedAccounts": []
   },
   {
@@ -573,6 +736,21 @@
     "products": [
       "surveys"
     ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "pvUzFKdk9FTk9USGM_b2M9NQ",
+    "title": "The Broe Group's Billion-Dollar Multifamily Portfolio Expansion Continues with 22-floor Luxury Dallas Tower Acquisition",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTGpYckNvWURPdHFlTlg5cC1oTTVFdVhzOUEtOTIxVHB2U09CdkoyVzBrN2FPZHBBdkxqeFpTc1AwMDdLRFR3QkpXNjF2QUJ2UzVMLTV5emItWl9jbWlmNlJ2dE94aW5FNEJQdjczb0RtdVBjMTRGaU5vOFV2RVlvTTV6S1JBY2ZTM1BseVhHQUVJa0w1Z2pQYlZoS1JvOENOTHc?oc=5",
+    "sourceName": "Yahoo Finance",
+    "publishedAt": "2026-11-12T13:00:00.000Z",
+    "analyzedAt": "2026-11-17T21:28:56.063Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "The Broe Group acquired a 22-floor luxury multifamily tower in Dallas, continuing its billion-dollar portfolio expansion in the multifamily sector.",
+    "angle": "Major operator expansion in Dallas signals growth opportunities; relevant for discussing platform consolidation and training/operational tools across expanded footprints.",
+    "play": "none",
+    "products": [],
     "mentionedAccounts": []
   },
   {
