@@ -1,5 +1,79 @@
 [
   {
+    "id": "cDZObEEzZG1vdFZYYz9vYz01",
+    "title": "Portland may double down on renter protections as landlords push back",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdHpUaFdONTFvQ1RpNUViLUJ0RE9qNzBXY3lfV0dBbnlLaEdhLWR0MkFWRHhtS2U4ZEVSTXlzV1ZJc2JlMmZOYnRBOFRCTTIyNUR0NjJRdnpSdk13aXVqUUpOcG1TWHJUMkFsRXJtYl9lVXJmdmw2cWhZVXpaN3NVdm8zTUY5ejFvWVNENGJVSUJOal9DSVFZemxLVTlYVlBqMHZMODFaeWxFNGNEOXY5Z3p6NlA3dmotVXc?oc=5",
+    "sourceName": "OregonLive.com",
+    "publishedAt": "2026-11-18T17:20:00.000Z",
+    "analyzedAt": "2026-11-18T21:03:56.771Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "Portland is expanding renter-protection ordinances, escalating compliance burden for local multifamily operators. Landlord pushback signals growing tension over regulatory scope.",
+    "angle": "Expanding renter-protection rules require updated lease language, disclosure procedures, and staff training. Grace Hill's policies module and training can help operators stay compliant and avoid costly lease-rider violations.",
+    "play": "policies",
+    "products": [
+      "policies",
+      "training"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "RZHpWSU5GRlFhRXBSP29jPTU",
+    "title": "Samson Management must void a lease rider that threatened 416 NYC tenants with eviction for claiming rent regulation",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOazI1c2VRc1BuWEw3TFB4WmQzTlR3MnJXX3FQR2daOXN5dDRXTlk0ZTVZcUlJQW15SU9PbWVVb0hnMzRSZVJ5VmVFQ2l1M3VpMHJCTEtXd2xiUTNKYVp0NzJ2dGpkSnF5S3ZKVWxnUHdCdnBLVUlBZDNJVGRfUE1DbG9CUG0xYk43YWF4RXRVeWJXYTB0U0FmSTlZOVBOcldKekFqb0RrYUIwWHhkdmFoWEx4aG9MejVJMmZvUkFQcFktQ2Q5MjY2NDlDOFFhaGVkNnI0aHpDbEpqMHhtYlV4Uk1QdzVINFFQaEpR?oc=5",
+    "sourceName": "Bushwick Daily",
+    "publishedAt": "2026-11-18T07:29:27.000Z",
+    "analyzedAt": "2026-11-18T21:03:56.771Z",
+    "updateType": "legal",
+    "relevance": 3,
+    "summary": "Samson Management was forced to void a lease rider threatening 416 NYC tenants with eviction for asserting rent-regulation rights. Demonstrates high legal and reputational risk of non-compliant lease practices.",
+    "angle": "High-profile enforcement action underscores critical need for compliant lease language, staff training on tenant rights, and clear policies. This is a wake-up call for all operators on lease compliance and fair-housing risk.",
+    "play": "policies",
+    "products": [
+      "policies",
+      "training"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "NFRtZEpTM2ROUmpkej9vYz01",
+    "title": "How Artificial Intelligence Is Changing Property Management and the Resident Experience",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd2RXSXl1TEtXcW5pd2FfdGx2ZTBHeEVSdGE0MHhQVnJsOUJMemtnX1dMYndOeThtT0l2YWY1WjRaUF85Vjh2WFVfRGpUOERwYVRIYWhqMzI5Um5WWnk4U1dNUWlYXzZQcnFUWVVCMGZmN0xiUmJwZ0JNWFE1aDNuR0p5VGlNNXBjYkpzaFZXd0hYVmpERXhUa1l4TXh0MXFNMHIyeHBKV1hLY0pWb3hObkxWUHFvTlRFQ0xsMk9hLWtWY0NoZXBfWlE4TmdJS3dNRjdz?oc=5",
+    "sourceName": "Perk Valley Now",
+    "publishedAt": "2026-11-18T01:38:12.000Z",
+    "analyzedAt": "2026-11-18T21:04:00.844Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "Article on how AI is transforming property management and the resident experience, highlighting operational and customer-service applications in the multifamily sector.",
+    "angle": "Property managers are adopting AI tools to improve leasing, service delivery, and resident experience—a key talking point for how Grace Hill's training, policies, and virtual-tools solutions integrate with modern property-tech stacks.",
+    "play": "technology",
+    "products": [
+      "training",
+      "policies",
+      "virtual-tools"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "FXa1l0T1hScmFFVkI_b2M9NQ",
+    "title": "GO Residential Charts A New Course After H&R Deal Sinks",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbmJQczA4ZjdFZnhWZFRUeVFfNDBmYVZDTVZ0OGxaSmZzQzdMU01VejYyRG9hMllpUGZfbUFfS1ZJM2Fkalh3cnVhYTdHVXhVaFZoVlRpTVVUcVU3SDNhR2J1RnVrZ3Bpd3NXRVg0MF9rMHZYenI0SGtNbjdocGlpdTRFY2pQWkYtOXRraEVB?oc=5",
+    "sourceName": "Bisnow",
+    "publishedAt": "2026-11-17T22:52:35.000Z",
+    "analyzedAt": "2026-11-18T21:03:56.771Z",
+    "updateType": "ma",
+    "relevance": 2,
+    "summary": "GO Residential is repositioning after a failed acquisition deal with H&R Block. Signals potential portfolio changes and strategic shifts for the multifamily operator.",
+    "angle": "Leadership uncertainty and business reset at GO Residential may create openings for training, policies, and mystery-shopping conversations to support stabilization and operational consistency.",
+    "play": "retention",
+    "products": [
+      "training",
+      "policies",
+      "mystery-shopping"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "UVRUWnBSMWhsV2xGVT9vYz01",
     "title": "After Declaring a ‘Rent Emergency,’ San Francisco Is Bringing in New Tenant Protections",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYkdTSXhKRVJLZEk1cHhyYWk0U3Q5TFZNZ3hwR3c5MWM0MFFrUHZ3Y09fcG5xZlJEeHFONHk5REYtaEtlMjRRMmJNV293NlB5UzNhaHlOVHY1UG9ncy1qTkI3SC1jZ3RQM0ZNLUVpUzZvb1NnR3FIekgxMGlvdVhzZnFibERvb2xXNlRQTTZpR1hlWlFU?oc=5",
@@ -13,6 +87,23 @@
     "play": "policies",
     "products": [
       "policies"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "NVQzVnhaMWRPTjBWbj9vYz01",
+    "title": "U.S. Capital Markets | Multifamily Report Q3 2026",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWxtbjNPN3BocUdBQUpzVEtKYW56YWIxd28zZGtybkhnQ0xoeHpZUHAxSUtUYl85MVlPbUhRZWZid0traERINEIxUC0wS1g4VDh6b2hLamgzRVhac09pemgzY3ZqN2sxblQwd1d3el9yaTVSTWE0aXQxeHp1a2NkeEFRS3RWMUlxdWhQOFdXa0laVENUcFpRUG1zSmV5T3VxZ1dON0Vn?oc=5",
+    "sourceName": "Colliers",
+    "publishedAt": "2026-11-17T18:50:00.000Z",
+    "analyzedAt": "2026-11-18T21:04:00.844Z",
+    "updateType": "market",
+    "relevance": 1,
+    "summary": "Colliers releases Q3 2026 multifamily capital markets report covering market trends, investment activity, and rental performance across U.S. regions.",
+    "angle": "Market data on multifamily trends provides context for lease pricing, occupancy, and competitive positioning—useful background for conversations with operators on adapting leasing and service strategies.",
+    "play": "market-analysis",
+    "products": [
+      "market-analysis"
     ],
     "mentionedAccounts": []
   },
@@ -47,6 +138,21 @@
       "policies",
       "training"
     ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "5CeFNuSmZiVzVNUVE_b2M9NQ",
+    "title": "US rental housing industry turns to integrated technology as OPTECH 2026 approaches",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMlhuZWpfMEktV1VQa3loT2lvZ3pRaHlwSEl0QWNzbmxxV3pnbHVpLU9tZnZKZHFILVQ5YnRxTzNZQU4xVVR0Z00tSVlRRGRtWUw4TWtZUldLc3ZkTFpXaWFCWTBpWm1nSTNFbmxEdnJWWlFNaTdQU3R2aGV2OTBkcjk5ZWc1cjNndzRBNDFfSno3SmhOaVJSRmwtMmNIQzdXNXl2SU42TmxVYUlkdWV3QVhyVnJRUnBxSnJfbW5MQQ?oc=5",
+    "sourceName": "Latin America Reports",
+    "publishedAt": "2026-11-17T08:00:00.000Z",
+    "analyzedAt": "2026-11-18T21:03:56.771Z",
+    "updateType": "technology",
+    "relevance": 1,
+    "summary": "US rental housing industry is adopting integrated technology solutions ahead of OPTECH 2026. The trend reflects growing demand for unified property-management platforms.",
+    "angle": "Signals broad sector momentum toward technology consolidation. Presents opportunity to discuss Grace Hill's integration with other platforms and cross-sell expansion of underused product modules.",
+    "play": "technology",
+    "products": [],
     "mentionedAccounts": []
   },
   {
@@ -203,6 +309,24 @@
     "relevance": 1,
     "summary": "OnTour, backed by investor Steve Winn, is launching a tour-optimization platform to help multifamily teams improve leasing efficiency and tour conversion.",
     "angle": "Market adoption of AI-powered tour and leasing tools is accelerating; Grace Hill's virtual tools and training for leasing teams remain core to competitive positioning as operators integrate new technology.",
+    "play": "virtual-tools",
+    "products": [
+      "virtual-tools",
+      "training"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "BacVYxbE9SVkZYVVE_b2M9NQ",
+    "title": "Steve Winn Backs OnTour to Provide Tour Optimization to Multifamily",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVXlnenh2MktNTXEwcnpzcWFsckVWZUhMa0dIZmc5R1JDSkhGOGNQUjZzb3R1V3p0Q0JpYS1sbmxJaXJqR2lDWlZmSm9JUWJKeFNESXEwOEZSN0g5SmVUeU9LVmNSSDl0QXJRajFKdnZMUHdEVGlOUGNvT1hndGxfc2dKTzlQN1NJSlB0SFdMa0RrdUlBc0RtYWNvWWRwY1hRWFBjM0JibldTZUZUZUxQNmQwM0laTS1ScHlKVUt0X0ZqV1lORVFXUQ?oc=5",
+    "sourceName": "Morningstar",
+    "publishedAt": "2026-11-16T14:06:00.000Z",
+    "analyzedAt": "2026-11-18T21:03:56.771Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "OnTour, backed by Steve Winn, is launching tour optimization software for multifamily leasing teams. Represents competitive pressure on leasing-tech workflows.",
+    "angle": "New leasing-tech entrant highlights the importance of integrated leasing and training solutions. Opens conversation with customers about how Grace Hill's training and virtual-tools can complement or enhance new technology adoption.",
     "play": "virtual-tools",
     "products": [
       "virtual-tools",
