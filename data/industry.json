@@ -1,5 +1,71 @@
 [
   {
+    "id": "ZmFtaWx5LWFuZC1tZWRpY2Fs",
+    "title": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
+    "link": "https://www.federalregister.gov/documents/2026/11/23/2026-23777/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical",
+    "sourceName": "Federal Register (Rule)",
+    "publishedAt": "2026-11-23T00:00:00.000Z",
+    "analyzedAt": "2026-11-21T19:54:40.910Z",
+    "updateType": "regulatory",
+    "relevance": 3,
+    "summary": "Department of Labor issues final rule on employee vs. independent contractor classification under FLSA, FMLA, and MSAWPA, rescinding prior guidance and replacing it with a 2021-style test with modifications.",
+    "angle": "Classification rules directly affect how multifamily operators staff leasing, service, and maintenance teams. Grace Hill's policies and training products help ensure compliance and protect operators from misclassification risk and wage violations.",
+    "play": "policies",
+    "products": [
+      "policies",
+      "training"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "5TUVVNU9HSllibEF3P29jPTU",
+    "title": "Tishman Speyer Acquires 264-Unit Avery Dania Pointe In Dania Beach, Plans Property Upgrades",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLS1nMHVYajRwMzdiaWJrZ3UzemcydDR2dmFhU1pycnlfaWY4V3lXRXBvaVBwcGZfVWxFUmljSFFzNGhhVmxlblZrQWlQYngwQ3E0U2pMYzZtTkJqY1UtZnZVNk51bjNmZUdzWFgxeVZ3NGZVZnV6NE9KNURUZWM2dW9kU24wczdodklzRDhMSXJzRmEyNXd3Z1hCSm0xZmhqamtVMGhqUUFzRFNpcW1rc1hZTjRKVXdHck5qV1gyMEU5OGJYblAw?oc=5",
+    "sourceName": "Florida YIMBY",
+    "publishedAt": "2026-11-21T11:30:38.000Z",
+    "analyzedAt": "2026-11-21T19:54:33.036Z",
+    "updateType": "ma",
+    "relevance": 1,
+    "summary": "Tishman Speyer acquired 264-unit Avery Dania Pointe in Dania Beach and plans property upgrades, signaling continued institutional investment and portfolio consolidation in Florida multifamily.",
+    "angle": "New ownership often brings operational reviews and platform changes; this is a touch point to discuss training, policies, and service delivery tools with Tishman Speyer or the previous operator if they retain other properties.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "wY1VaSFZWWnVVbkZOP29jPTU",
+    "title": "When the Rent Roll Meets the Map: AI, Location Data and the New Shape of Multifamily Underwriting",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVEdxeWVTZnZ3WUc0Z2NobEhwT213dzlvV2ZPeUd2T004ZWlMem9JZlFacWZibnItVkZPUHlTdGlVdWNqeUVFbWx5Y2pWX0lZNkpVT2kxMUx4ZFZMZ1J4M0ZRS3FNWmR4YnpGak1oSDlhdVZXTHpnX2ZNSTI2LXFHTVhHbkJsXzJxRXY4OXJJQ2ktaEFmakpMQWs0czU5WjZLYi1ocTkwMmZLck5PLXdsTWZyWDdka0JXblN0V1k0cUZHVVZuUnFN?oc=5",
+    "sourceName": "GIS user",
+    "publishedAt": "2026-11-21T09:32:14.000Z",
+    "analyzedAt": "2026-11-21T19:54:40.910Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "GIS user explores how AI and location data are reshaping multifamily underwriting and rent-roll analytics, signaling broader adoption of data-driven decision-making in property management.",
+    "angle": "Market analysis and AI-driven underwriting are becoming standard for multifamily operators. Grace Hill's market-analysis product and training capabilities help customers keep pace with data-driven asset and portfolio decisions.",
+    "play": "market-analysis",
+    "products": [
+      "market-analysis",
+      "training"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "NFFtTktNRWRvUms1bj9vYz01",
+    "title": "Kansas City BTR construction has declined from 2023 peak",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1VUTDJpRTNjOURsd1lVVHlnQVRsRU1QVmRxX2UtNzItZkh6d0VHdnJTcUdLSXBicThoTTl3S1NpdGdEWGxvWkNnNURTNGJndnZhU1FmVVhhekNPNEk3M0pGQjYtMWp4Sm1kMHV2LUN0Ti1Rb1MzZFFUS3A5UjJQLWxMcWhxeG9VWklkLVlnQUJXZEhRZFJpS3d4dWc4QmNKMEdoRk5n?oc=5",
+    "sourceName": "Northmarq",
+    "publishedAt": "2026-11-20T19:42:27.000Z",
+    "analyzedAt": "2026-11-21T19:54:40.910Z",
+    "updateType": "market",
+    "relevance": 1,
+    "summary": "Kansas City build-to-rent construction has declined from its 2023 peak, reflecting cooling activity in a key multifamily market.",
+    "angle": "Market slowdown signals shift in leasing priorities—operators may face lower turnover, reduced urgency on leasing efficiency, or need to refocus on resident retention and renewal strategies.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
     "id": "aHRiV05tWlZsTFlWRT9vYz01",
     "title": "News | Hamilton Zanze acquires Knoxville-area apartments",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZzVXQnZFa0hkNGRrXy1jN18xZ0JXcDJxM1pkNG41UTdtVnlGNkx3NW9OM0ZnVFdSUjJXbjlqcksySDZzN1VFbG5uQWNGOFZhdkNTREZSNG0wdmRSX2JvVXVHdXJoRGtjekMyaVdhNXZURTcwRy1aSnVzSWF2QnROZzFkcmlMRmNSMWJrSWhtbWNmZVlLYVE?oc=5",
@@ -53,6 +119,41 @@
     "mentionedAccounts": []
   },
   {
+    "id": "Um1NbVpUTFU5WmNUaz9vYz01",
+    "title": "OPTECH Special Report: Intelligent Automation",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVJCclBOY1kzcGxiU1ViMjBTMERVWkxobzN4VER3N0lFN0w0V0ctTXdlMkpmWEUxb1hiaFQ3SWpUYlIxSzJmTTE5M0JjZFVUQWg2LVh3Qk5KZUJGRkYzblJkRmpvcFQzOGRFNmZnOVRKWDlJWXI1Ny0takRmMmZTLU9ZcTk?oc=5",
+    "sourceName": "Multifamily Housing News",
+    "publishedAt": "2026-11-20T15:10:55.000Z",
+    "analyzedAt": "2026-11-21T19:54:40.910Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "Multifamily Housing News publishes OPTECH Special Report on Intelligent Automation, highlighting sector adoption of AI and automation tools for property operations.",
+    "angle": "Major operators are investing in automation and AI for leasing, service, and maintenance workflows. Grace Hill customers need to understand how intelligent automation integrates with training, policies, and operational tools to remain competitive.",
+    "play": "technology",
+    "products": [
+      "training",
+      "policies"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "VGhUVmtoeVFtWnBVUT9vYz01",
+    "title": "Apartments.com Releases Multifamily Construction Activity Update for Q3 2026",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNajdobnpQTE9PakkzbWlPeFhaRkZjYkxLQmxLWEt0dXg5ZXMxZ1E5OXl5NjVDOGFwQ1pXNkYyUnFzUmEwUEQzRXJoYzRGdXhPTWtOUzhTUEM1NEtEcDdBOEhjWUZVdXVNSFZQV1MyTzhRaHhtY2xFM3VTUmZMbjBIa21obVdvTmEtSHVIQWh6RzBjYkRVUFpQYXFZclZ5LUZZc3ZuMmhtcVJVbFM1cHNualpacEE4blZfX3RQMjFncGZHbUFuUThTVkhyQmZpUQ?oc=5",
+    "sourceName": "Business Wire",
+    "publishedAt": "2026-11-20T14:06:27.000Z",
+    "analyzedAt": "2026-11-21T19:54:40.910Z",
+    "updateType": "market",
+    "relevance": 1,
+    "summary": "Apartments.com releases Q3 2026 Multifamily Construction Activity Update, tracking supply and development trends across the sector.",
+    "angle": "Construction activity trends inform pricing, leasing, and competitive positioning; Grace Hill's market-analysis product supports data-driven decisions on these shifts.",
+    "play": "market-analysis",
+    "products": [
+      "market-analysis"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "UlZEWTNRMUJ0TTJNdz9vYz01",
     "title": "Apartments.com Releases Multifamily Construction Activity Update for Q3 2026",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbDNCYjI1TVJwdjd4elFtTEgwZHVLYWJXeDFUMkg0VUFDbFJERHlWRmxMSXptaTFIUTE5bThJdGtHdXhiQ1BMMGh4bTRMcThWVFJrNHJNb0dFWjBOanlONzlWcnlmd0I1b1VBMFBNaVZyWjhtby1iRjVDR092TnZzVjk2NF9rT012NFN6OUhZckJzS1dCMWFFQTBHTUJFM183bW5NTjlRVDY3Q1BtM2Mw?oc=5",
@@ -66,6 +167,23 @@
     "play": "market-analysis",
     "products": [
       "market-analysis"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "GR04xOVVibFEwUlRFP29jPTU",
+    "title": "Mamdani warns against allowing rent increases in vacant stabilized apartments",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSGJfa3BEdWh5T2JQY3JGUU9LVGlsRmpUUlpyMzNTQTBYWDh1WGU0bTQxZ3RfaWh1X3V4TlotYl82bDBtaWdvLWIyYWJ1dENnVktTb1AwbENJcHZCcHMzSXdHWEJzd2p4Mnc2QXZpc290RDBkR3FqNGdtd3EzRUg4dnN6R09hRXRwbHg3b29UTl9IdnFGN19UblQ0RTE?oc=5",
+    "sourceName": "Crain's New York Business",
+    "publishedAt": "2026-11-20T10:53:00.000Z",
+    "analyzedAt": "2026-11-21T19:54:33.036Z",
+    "updateType": "regulatory",
+    "relevance": 2,
+    "summary": "New York state official warns against allowing rent increases in vacant stabilized apartments, escalating rent-control debate and tenant-protection scrutiny in New York City.",
+    "angle": "Rent-stabilization and vacancy rules directly affect leasing playbooks and require clear, compliant policies; this is a conversation starter with NY-focused operators about policy updates and fair housing training.",
+    "play": "policies",
+    "products": [
+      "policies"
     ],
     "mentionedAccounts": []
   },
@@ -95,6 +213,24 @@
     "relevance": 2,
     "summary": "Seattle faces legal battles over tenant protection regulations and their impact on property rights. Regulatory uncertainty creates compliance and operational challenges for landlords.",
     "angle": "Tenant-protection rules evolving in major markets require updated policies and staff training. Operators need centralized policy management and education to stay compliant and avoid legal exposure.",
+    "play": "policies",
+    "products": [
+      "policies",
+      "training"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "bE9hSE5QWm1SbFZuYz9vYz01",
+    "title": "New Louisiana law lets stalking victims end leases early, with conditions",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNazZUUldGWEhyeXIwU2VhSDg3d2RGb2ZEb2N1MWdKR25EZHZCYmN0eGhRRHQwM1Y3VUlERG03OFNfOV9BSnk2V001Qmx2RmN6T0piUDZiNnozRWdQYTNjTDhYNHZzcVNON1BudGtlSGZPWEUycXZfQXN2cTlha0tINGl1Z3lyYUNST05pT1F0NEhsVFBQTEFZVV93SkN4ODROU04wUC10TzFJSFXSAb8BQVVfeXFMTUZiRTN1TUtWVXJtemtYT1VPWTlqY0hwRXkxYjZFRjdXeHRDeUZTOUhEWmtzNUdOY2RPeW5hWXZDVmZrUUlsZDVHMlNFNHZyM0dsclMtaUFaeU9pTGlOZmRoN25kSDdma1c4UXEydnRlQXlTdHJvOVB2cVRJekVSTGJRSlhmM3RORGxrcHFwdkt0c01CSHZVelNudl9qWWo1aUJzRnRTeXhmT3AxNDlmWDBOTEQtRklOaHNPZmRlVnc?oc=5",
+    "sourceName": "KPLC 7 News",
+    "publishedAt": "2026-11-20T03:20:00.000Z",
+    "analyzedAt": "2026-11-21T19:54:33.036Z",
+    "updateType": "regulatory",
+    "relevance": 1,
+    "summary": "Louisiana enacted a new law allowing stalking victims to end leases early under specified conditions, adding a lease-break exception that operators must implement and train staff to recognize.",
+    "angle": "New lease-termination rules require policy updates and staff training; this is a touchpoint with operators in Louisiana to review lease policies and leasing-team education around tenant-protection laws.",
     "play": "policies",
     "products": [
       "policies",
@@ -367,6 +503,23 @@
     "mentionedAccounts": []
   },
   {
+    "id": "h0ZUhKMFFsSkVUMjQ_b2M9NQ",
+    "title": "A new front in the Albany rent fight",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcldlRk9faHdaaGIwVzBTQ09jckowbUhvUi0yZDJCX3ZleW9oYThtRElkbEVGWjNBRHRCME1laTltcm1nLWVmLWFVSmtOSDZqR1J3Ny01ZTVJTXhPampGQUVMeEUyQk9JSXUyMjJBXzdlVnBCMTloXzh3OGJ0LW5iMHBKMkU4c1d1Wm9VV2tJRnFqVlVMMV9pVWJpSmxZV011Z0NpY01Fa3V2SFhteHJ0QlJET24?oc=5",
+    "sourceName": "Politico",
+    "publishedAt": "2026-11-17T21:51:50.000Z",
+    "analyzedAt": "2026-11-21T19:54:33.036Z",
+    "updateType": "regulatory",
+    "relevance": 1,
+    "summary": "New York rent-control advocacy continues to evolve, with fresh political pressure around tenant protections and rent-increase caps.",
+    "angle": "Ongoing NY rent-control activism adds urgency to compliance and policy clarity; reach out to New York-based operators to audit lease language, renewal processes, and staff training on current rules.",
+    "play": "policies",
+    "products": [
+      "policies"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "UVRUWnBSMWhsV2xGVT9vYz01",
     "title": "After Declaring a ‘Rent Emergency,’ San Francisco Is Bringing in New Tenant Protections",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYkdTSXhKRVJLZEk1cHhyYWk0U3Q5TFZNZ3hwR3c5MWM0MFFrUHZ3Y09fcG5xZlJEeHFONHk5REYtaEtlMjRRMmJNV293NlB5UzNhaHlOVHY1UG9ncy1qTkI3SC1jZ3RQM0ZNLUVpUzZvb1NnR3FIekgxMGlvdVhzZnFibERvb2xXNlRQTTZpR1hlWlFU?oc=5",
@@ -465,6 +618,23 @@
     "angle": "Signals broad sector momentum toward technology consolidation. Presents opportunity to discuss Grace Hill's integration with other platforms and cross-sell expansion of underused product modules.",
     "play": "technology",
     "products": [],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "kR1ZtUnBMVVpCZG5jP29jPTU",
+    "title": "The AI edge in real estate investment",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQazN3cE1SR0pUQkxFblBVdEh6T3Vhb3NkY1Zfd09pWmR4bDBnNFc3MWkyUjJUVnJjMmU4enlaRVNlZHc1S1l3d1hYR0gwbVpRdlpGaDF5eG00YmswNk9CbFB3SjI4Y0o0VUJHZ0tlQmtyQVc1VmJYNDQxaG5IWmg5cWJjS2tiaGF6bjlOOUNZaUtJSjFicG9lclh4Z3JaSDlFcVNVSzdGVmRpLUZBdnc?oc=5",
+    "sourceName": "UBS",
+    "publishedAt": "2026-11-17T08:00:00.000Z",
+    "analyzedAt": "2026-11-21T19:54:33.036Z",
+    "updateType": "technology",
+    "relevance": 1,
+    "summary": "UBS report highlights AI adoption advantages in real estate investment, underscoring industry momentum toward data and automation tools for portfolio and asset management.",
+    "angle": "Institutional investors are accelerating AI and data-platform adoption; this is awareness-building for account conversations about data-driven leasing, pricing, and market analysis tools.",
+    "play": "market-analysis",
+    "products": [
+      "market-analysis"
+    ],
     "mentionedAccounts": []
   },
   {
