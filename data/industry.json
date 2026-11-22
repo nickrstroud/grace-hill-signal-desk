@@ -447,6 +447,24 @@
     "mentionedAccounts": []
   },
   {
+    "id": "FkbmFtMUdPRVpSUVE_b2M9NQ",
+    "title": "NYC Rent Guidelines Board approves 2-year rent freeze, fulfilling Mamdani campaign pledge",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU3VmRVRrUDVxUnBVSnhWOHZBcFgwRFppcVZtNk1lcE5kbzVxTEhYSl9xNl9MeW9sRmptX1pkbkpMYjZLT0RNVl9PWGpVWTFUNU5pV3B1dGVQWWlLSTFJN3g3aktKQnJOVjBBX3FlODZ0Ujc2bGpPbTNqam1uSGEyWlVMQkcwT0ppcTNXSVdsV2lxN3hBbmJMbG1uYU1ZSHYzcVAzWWVxemZCUWFwR1dnam1GOEZRQQ?oc=5",
+    "sourceName": "Gothamist",
+    "publishedAt": "2026-11-18T08:00:00.000Z",
+    "analyzedAt": "2026-11-22T20:06:04.997Z",
+    "updateType": "regulatory",
+    "relevance": 3,
+    "summary": "NYC Rent Guidelines Board approved a 2-year rent freeze, eliminating rent increases for multifamily properties in NYC for two years. This directly impacts revenue, renewals, and operations for any operators with NYC portfolio exposure.",
+    "angle": "NYC operators will face zero rent-growth revenue for 24 months, requiring urgent conversation around operational efficiency, cost containment, and staffing strategy. This is a potential trigger for policies/training expansion and market positioning.",
+    "play": "retention",
+    "products": [
+      "policies",
+      "training"
+    ],
+    "mentionedAccounts": []
+  },
+  {
     "id": "RZHpWSU5GRlFhRXBSP29jPTU",
     "title": "Samson Management must void a lease rider that threatened 416 NYC tenants with eviction for claiming rent regulation",
     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOazI1c2VRc1BuWEw3TFB4WmQzTlR3MnJXX3FQR2daOXN5dDRXTlk0ZTVZcUlJQW15SU9PbWVVb0hnMzRSZVJ5VmVFQ2l1M3VpMHJCTEtXd2xiUTNKYVp0NzJ2dGpkSnF5S3ZKVWxnUHdCdnBLVUlBZDNJVGRfUE1DbG9CUG0xYk43YWF4RXRVeWJXYTB0U0FmSTlZOVBOcldKekFqb0RrYUIwWHhkdmFoWEx4aG9MejVJMmZvUkFQcFktQ2Q5MjY2NDlDOFFhaGVkNnI0aHpDbEpqMHhtYlV4Uk1QdzVINFFQaEpR?oc=5",
@@ -532,6 +550,24 @@
     "angle": "New local rent and tenant rules require operators to update lease terms, disclosures, and fee structures; policies and training become critical for consistent compliance across portfolios.",
     "play": "policies",
     "products": [
+      "policies"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "5V1V0Nk9WOTBaRE5qP29jPTU",
+    "title": "Inhabit Unveils New AI Innovations, Deeper Integrations and Scalability Enhancements at OPTECH 2026",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOS1mMGp1cndiazhtckttdFlxS2YwcW84TEZ3eHpMd0xXUU9tSEZZTjhCel9nc3c5aGFoMFZVN0xEQlpobVhVRldEZERTOXNXQ2RJOVhVZ1MwSnBPV1VzNldSWjF6T3JmcmozT2pNVGJVV0pseWh6am1BR2p2dVloQW5KZUlEWV9sbW0xeVBvUEJLODlZQkVIVXUyWUt6OV90ZDNj?oc=5",
+    "sourceName": "Yahoo Finance",
+    "publishedAt": "2026-11-17T19:30:00.000Z",
+    "analyzedAt": "2026-11-22T20:06:04.997Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "Inhabit, a property-management software platform, unveiled new AI innovations, deeper integrations, and scalability enhancements at OPTECH 2026. This signals accelerating competitive adoption of AI and automation in property-tech.",
+    "angle": "Competitive platforms are embedding AI automation; Grace Hill customers should explore how training, policies, and analytics tools integrate with their tech stack and prepare teams for AI-assisted workflows.",
+    "play": "technology",
+    "products": [
+      "training",
       "policies"
     ],
     "mentionedAccounts": []
