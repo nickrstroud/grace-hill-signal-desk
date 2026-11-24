@@ -1,5 +1,54 @@
 [
   {
+    "id": "c5WVFuZHZUVFpuVlE_b2M9NQ",
+    "title": "Resident Expectations Is Helping Drive Multifamily Access Control Investment",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTmdmd2NjTEtHM0cxWlA0dU9MMmRzamtXSE9KYTJ1MWlqWnkwdDFwUlVLdW40Y1hDTURXMDBiSlRLM20zM2hnZ3V2SWNKX0dyb3VNTkFhMldHSXd0UVRvTkhCa21qQkoxRXhEQ1JQZWMtTkxzZjFTVk0xSlhIQ1N5NXJQM05mbk1JamswRHZHYkZ2Wkh3SGJnbWptQVBCSHM4RmVEVTlUZzFZZl9BRGpCakFMYVhsdTBvYUNqSU5xVXR3TnoxZHhMaVdZQzBzU3BvaGY5TEFsbHZ1LW9YQndvTTZnVQ?oc=5",
+    "sourceName": "Security Info Watch",
+    "publishedAt": "2026-11-24T22:02:13.000Z",
+    "analyzedAt": "2026-11-24T22:53:02.776Z",
+    "updateType": "market",
+    "relevance": 1,
+    "summary": "Resident expectations are driving increased investment in multifamily access control systems as a competitive and service differentiator.",
+    "angle": "Property operators are investing in access control to meet resident expectations; this is part of broader resident experience and leasing differentiation that Grace Hill customers should be discussing with prospects.",
+    "play": "surveys",
+    "products": [
+      "surveys"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "ZTVGRNVVRKNk5HdG4_b2M9NQ",
+    "title": "South Florida on track to add 13,000 new apartments in 2026",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNamVKUUpidGhfY1A3cGg5cWttbDVwaFJYc0F6RE05Q3pwQVNnaV8xaThHTXNfc2tad1kyY05Cc1V0UGNQM21fSUVLMEZhR1NtOWhBd0gwN1EzY25meHFzOGs3eUc1WGxzUDhabDBIZWxQa25oTVRHeHlKaFNlTHhYb3N4NGt6VEtFSmJIVXBFVFNsWVh4STJmNXFGTFRlY1EtNDdvM3JSS1ZvSTdMUTJ6NGtn?oc=5",
+    "sourceName": "The Business Journals",
+    "publishedAt": "2026-11-24T19:35:00.000Z",
+    "analyzedAt": "2026-11-24T22:53:02.776Z",
+    "updateType": "market",
+    "relevance": 1,
+    "summary": "South Florida is on track to add 13,000 new apartments in 2026, signaling continued supply growth in a key Sun Belt market.",
+    "angle": "New supply pressure in South Florida will require heightened leasing focus and competitive market intelligence; a talking point for market-analysis and training conversations with operators in the region.",
+    "play": "market-analysis",
+    "products": [
+      "market-analysis"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "pOVEZMUjBKT01VMXI_b2M9NQ",
+    "title": "Multifamily Proptech Moves Deeper Into Operations",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWXBzRlBIeGs3aFI4NXpmWHpINmZocjdWYmg1TUlQeTNoRDBveXRJdU1MR1pudXgtRS1YMU5NX0daaDBEZHFGNDRaaXlKd0VlZUI2UjFTX2wyX1FTeGpFdmI1am5HcFZLeE96dmFPMW5WeWNoZDlCRzlwQXRvb2p0V2xVT3VxSnZiWTBVWXVJNTFLR0JOMU1r?oc=5",
+    "sourceName": "Multifamily Executive",
+    "publishedAt": "2026-11-24T19:30:12.000Z",
+    "analyzedAt": "2026-11-24T22:53:02.776Z",
+    "updateType": "technology",
+    "relevance": 2,
+    "summary": "Multifamily proptech vendors are expanding deeper into operations—moving beyond leasing to cover service, maintenance, and resident communication workflows.",
+    "angle": "Operational technology adoption is accelerating; Grace Hill customers should understand competitive proptech moves into training, service automation, and operational tools to position their own platforms and training.",
+    "play": "none",
+    "products": [],
+    "mentionedAccounts": []
+  },
+  {
     "id": "6UlBVMko1VUdWd2JRP29jPTU",
     "title": "N.C. tenant laws provide little protection against moldy living conditions",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX1A1THhFaTRaMXUxSjZVclk4VFdTZXZ3cEdZSXdYWWo5RWNjbGw0NnZNWndMMS1xSXBLaFRram5pZkZWYmVlWFU3RU11TGlRWkt2NEJkWkNLRlVVUVA1b2hKTGJSZUhKQzBEaVdOcmVhMl8zVHNUeGszMENoZE1mZmFqYzRPU2J5UGVwbQ?oc=5",
@@ -13,6 +62,23 @@
     "play": "training",
     "products": [
       "training"
+    ],
+    "mentionedAccounts": []
+  },
+  {
+    "id": "UmFHUjRWRlZQU0dwRj9vYz01",
+    "title": "Developer to build 1,008 apartments in Miami with $345M construction loan",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOVZueXZ1NUVpN1NxV0tRSExUYlVZd0M0dEZWTFZqR21aRmRheEdsYWx2NXlxYkRpWGlZVlgzTGNTMU91RXpUY29kTzJFWWczSTRWM0ZVR1dtSUFkOExIREo1c1BOZmx0clFObGhORG12cUtELS16cTFWbzFFeGRPVHFUQ0lURG41X2dLUDBpUlZjZUUxWDR0b1BXekZZaEVrcUljaFJRaGR4VFVPSGpF?oc=5",
+    "sourceName": "The Business Journals",
+    "publishedAt": "2026-11-23T19:43:00.000Z",
+    "analyzedAt": "2026-11-24T22:53:02.776Z",
+    "updateType": "expansion",
+    "relevance": 1,
+    "summary": "A developer is building 1,008 apartments in Miami with $345M construction financing, adding to the new-supply wave in South Florida.",
+    "angle": "New construction supply in Miami will intensify leasing competition; operators need market data and leasing training to stay competitive.",
+    "play": "market-analysis",
+    "products": [
+      "market-analysis"
     ],
     "mentionedAccounts": []
   },
